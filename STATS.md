@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-22 18:13 UTC
+**Last updated:** 2026-07-24 10:58 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **8** |
-| 🟢 Easy | 5 (62.5%) |
-| 🟡 Medium | 3 (37.5%) |
+| **Total Solved** | **9** |
+| 🟢 Easy | 5 (55.6%) |
+| 🟡 Medium | 4 (44.4%) |
 | 🔴 Hard | 0 (0.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 5
-- 🟡 **Medium**: `████████░░░░░░░░░░░░` 3
+- 🟢 **Easy**: `███████████░░░░░░░░░` 5
+- 🟡 **Medium**: `█████████░░░░░░░░░░░` 4
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
 
 ## Language Breakdown
@@ -24,14 +24,15 @@
 | Language | Solved |
 |---|---|
 | C++ | 6 |
+| Python | 2 |
 | Unknown | 1 |
-| Python | 1 |
 
 ## Solved Problems
 
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | C++ |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
