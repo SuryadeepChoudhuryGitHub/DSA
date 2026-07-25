@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-25 07:38 UTC
+**Last updated:** 2026-07-25 07:39 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **10** |
-| 🟢 Easy | 5 (50.0%) |
-| 🟡 Medium | 5 (50.0%) |
+| **Total Solved** | **11** |
+| 🟢 Easy | 6 (54.5%) |
+| 🟡 Medium | 5 (45.5%) |
 | 🔴 Hard | 0 (0.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 5
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 5
+- 🟢 **Easy**: `███████████░░░░░░░░░` 6
+- 🟡 **Medium**: `█████████░░░░░░░░░░░` 5
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
 
 ## Language Breakdown
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 7 |
-| Python | 2 |
+| Python | 3 |
 | Unknown | 1 |
 
 ## Solved Problems
@@ -41,3 +41,4 @@
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
+| 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
