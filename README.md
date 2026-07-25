@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-25 07:49 UTC
+**Last updated:** 2026-07-25 19:15 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **12** |
-| 🟢 Easy | 7 (58.3%) |
-| 🟡 Medium | 5 (41.7%) |
+| **Total Solved** | **13** |
+| 🟢 Easy | 7 (53.8%) |
+| 🟡 Medium | 6 (46.2%) |
 | 🔴 Hard | 0 (0.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 7
-- 🟡 **Medium**: `████████░░░░░░░░░░░░` 5
+- 🟢 **Easy**: `███████████░░░░░░░░░` 7
+- 🟡 **Medium**: `█████████░░░░░░░░░░░` 6
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 8 |
+| C++ | 9 |
 | Python | 3 |
 | Unknown | 1 |
 
@@ -34,6 +34,7 @@
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | C++ |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
