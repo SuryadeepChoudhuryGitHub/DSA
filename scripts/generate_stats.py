@@ -19,7 +19,7 @@ from collections import Counter
 from datetime import datetime, timezone
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUTPUT_FILE = os.path.join(REPO_ROOT, "STATS.md")
+OUTPUT_FILE = os.path.join(REPO_ROOT, "README.md")
 
 # Folders to ignore when scanning for problem directories
 IGNORE_DIRS = {".git", ".github", "scripts", "node_modules"}
