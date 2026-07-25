@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-25 07:39 UTC
+**Last updated:** 2026-07-25 07:49 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **11** |
-| 🟢 Easy | 6 (54.5%) |
-| 🟡 Medium | 5 (45.5%) |
+| **Total Solved** | **12** |
+| 🟢 Easy | 7 (58.3%) |
+| 🟡 Medium | 5 (41.7%) |
 | 🔴 Hard | 0 (0.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `███████████░░░░░░░░░` 6
-- 🟡 **Medium**: `█████████░░░░░░░░░░░` 5
+- 🟢 **Easy**: `████████████░░░░░░░░` 7
+- 🟡 **Medium**: `████████░░░░░░░░░░░░` 5
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 7 |
+| C++ | 8 |
 | Python | 3 |
 | Unknown | 1 |
 
@@ -42,3 +42,4 @@
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
+| 4354 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | 🟢 Easy | C++ |
