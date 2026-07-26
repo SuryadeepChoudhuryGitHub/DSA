@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-25 19:15 UTC
+**Last updated:** 2026-07-26 19:37 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **13** |
-| 🟢 Easy | 7 (53.8%) |
-| 🟡 Medium | 6 (46.2%) |
+| **Total Solved** | **14** |
+| 🟢 Easy | 7 (50.0%) |
+| 🟡 Medium | 7 (50.0%) |
 | 🔴 Hard | 0 (0.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `███████████░░░░░░░░░` 7
-- 🟡 **Medium**: `█████████░░░░░░░░░░░` 6
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 7
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 7
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
 
 ## Language Breakdown
@@ -25,12 +25,13 @@
 |---|---|
 | C++ | 9 |
 | Python | 3 |
-| Unknown | 1 |
+| Unknown | 2 |
 
 ## Solved Problems
 
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | 🟡 Medium | Unknown |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | C++ |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
