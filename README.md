@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-27 18:05 UTC
+**Last updated:** 2026-07-27 18:52 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **16** |
-| 🟢 Easy | 9 (56.2%) |
-| 🟡 Medium | 7 (43.8%) |
+| **Total Solved** | **17** |
+| 🟢 Easy | 9 (52.9%) |
+| 🟡 Medium | 8 (47.1%) |
 | 🔴 Hard | 0 (0.0%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `███████████░░░░░░░░░` 9
-- 🟡 **Medium**: `█████████░░░░░░░░░░░` 7
+- 🟡 **Medium**: `█████████░░░░░░░░░░░` 8
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 10 |
+| C++ | 11 |
 | Python | 4 |
 | Unknown | 2 |
 
@@ -43,6 +43,7 @@
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
+| 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
