@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-26 19:37 UTC
+**Last updated:** 2026-07-27 18:02 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **14** |
-| 🟢 Easy | 7 (50.0%) |
-| 🟡 Medium | 7 (50.0%) |
+| **Total Solved** | **15** |
+| 🟢 Easy | 8 (53.3%) |
+| 🟡 Medium | 7 (46.7%) |
 | 🔴 Hard | 0 (0.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 7
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 7
+- 🟢 **Easy**: `███████████░░░░░░░░░` 8
+- 🟡 **Medium**: `█████████░░░░░░░░░░░` 7
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 9 |
+| C++ | 10 |
 | Python | 3 |
 | Unknown | 2 |
 
@@ -41,6 +41,7 @@
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
+| 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
