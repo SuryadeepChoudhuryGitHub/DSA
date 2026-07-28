@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-28 17:29 UTC
+**Last updated:** 2026-07-28 18:12 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **18** |
-| 🟢 Easy | 9 (50.0%) |
-| 🟡 Medium | 9 (50.0%) |
+| **Total Solved** | **19** |
+| 🟢 Easy | 10 (52.6%) |
+| 🟡 Medium | 9 (47.4%) |
 | 🔴 Hard | 0 (0.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 9
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 9
+- 🟢 **Easy**: `███████████░░░░░░░░░` 10
+- 🟡 **Medium**: `█████████░░░░░░░░░░░` 9
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 11 |
+| C++ | 12 |
 | Python | 5 |
 | Unknown | 2 |
 
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | Python |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | C++ |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | 🟡 Medium | Unknown |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | C++ |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
