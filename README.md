@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-27 18:52 UTC
+**Last updated:** 2026-07-28 17:29 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **17** |
-| 🟢 Easy | 9 (52.9%) |
-| 🟡 Medium | 8 (47.1%) |
+| **Total Solved** | **18** |
+| 🟢 Easy | 9 (50.0%) |
+| 🟡 Medium | 9 (50.0%) |
 | 🔴 Hard | 0 (0.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `███████████░░░░░░░░░` 9
-- 🟡 **Medium**: `█████████░░░░░░░░░░░` 8
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 9
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 9
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
 
 ## Language Breakdown
@@ -24,13 +24,14 @@
 | Language | Solved |
 |---|---|
 | C++ | 11 |
-| Python | 4 |
+| Python | 5 |
 | Unknown | 2 |
 
 ## Solved Problems
 
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | Python |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | 🟡 Medium | Unknown |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | C++ |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
