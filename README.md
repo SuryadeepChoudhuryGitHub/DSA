@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-28 18:12 UTC
+**Last updated:** 2026-07-29 18:27 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **19** |
-| 🟢 Easy | 10 (52.6%) |
-| 🟡 Medium | 9 (47.4%) |
+| **Total Solved** | **20** |
+| 🟢 Easy | 10 (50.0%) |
+| 🟡 Medium | 10 (50.0%) |
 | 🔴 Hard | 0 (0.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `███████████░░░░░░░░░` 10
-- 🟡 **Medium**: `█████████░░░░░░░░░░░` 9
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 10
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 10
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 12 |
+| C++ | 13 |
 | Python | 5 |
 | Unknown | 2 |
 
@@ -35,6 +35,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | C++ |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | 🟡 Medium | Unknown |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | C++ |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | C++ |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
