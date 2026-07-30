@@ -2,7 +2,7 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-30 13:56 UTC
+**Last updated:** 2026-07-30 14:02 UTC
 
 ## Overview
 
