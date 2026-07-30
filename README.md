@@ -2,7 +2,7 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-29 19:15 UTC
+**Last updated:** 2026-07-30 13:56 UTC
 
 ## Overview
 
@@ -23,15 +23,15 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 14 |
-| Python | 5 |
+| C++ | 15 |
+| Python | 4 |
 | Unknown | 2 |
 
 ## Solved Problems
 
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | Python |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | C++ |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | C++ |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | 🟡 Medium | Unknown |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | C++ |
