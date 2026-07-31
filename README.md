@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-30 14:02 UTC
+**Last updated:** 2026-07-31 13:23 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **21** |
-| 🟢 Easy | 10 (47.6%) |
-| 🟡 Medium | 11 (52.4%) |
+| **Total Solved** | **22** |
+| 🟢 Easy | 10 (45.5%) |
+| 🟡 Medium | 12 (54.5%) |
 | 🔴 Hard | 0 (0.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 10
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 11
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 10
+- 🟡 **Medium**: `███████████░░░░░░░░░` 12
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 15 |
+| C++ | 16 |
 | Python | 4 |
 | Unknown | 2 |
 
@@ -45,6 +45,7 @@
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
+| 1446 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 🟡 Medium | C++ |
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
