@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-01 18:37 UTC
+**Last updated:** 2026-08-01 20:25 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **25** |
-| 🟢 Easy | 11 (44.0%) |
-| 🟡 Medium | 13 (52.0%) |
-| 🔴 Hard | 1 (4.0%) |
+| **Total Solved** | **26** |
+| 🟢 Easy | 11 (42.3%) |
+| 🟡 Medium | 14 (53.8%) |
+| 🔴 Hard | 1 (3.8%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 11
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 13
+- 🟢 **Easy**: `████████░░░░░░░░░░░░` 11
+- 🟡 **Medium**: `███████████░░░░░░░░░` 14
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 19 |
+| C++ | 20 |
 | Python | 4 |
 | Unknown | 2 |
 
@@ -44,6 +44,7 @@
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
