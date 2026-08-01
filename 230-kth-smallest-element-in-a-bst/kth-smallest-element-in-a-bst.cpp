@@ -15,15 +15,15 @@ public:
         if (root == nullptr) {
             return;
         }
-        tree(root->left, flat);
         flat.push_back(root->val);
+        tree(root->left, flat);
         tree(root->right, flat);
     }
 
     int kthSmallest(TreeNode* root, int k) {
         vector<int> flat = {};
         tree(root, flat);
-        // sort(flat.begin(), flat.end());
+        sort(flat.begin(), flat.end());
         return flat[k-1];
     }
 };
