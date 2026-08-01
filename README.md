@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-07-31 13:23 UTC
+**Last updated:** 2026-08-01 14:47 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **22** |
-| 🟢 Easy | 10 (45.5%) |
-| 🟡 Medium | 12 (54.5%) |
-| 🔴 Hard | 0 (0.0%) |
+| **Total Solved** | **23** |
+| 🟢 Easy | 10 (43.5%) |
+| 🟡 Medium | 12 (52.2%) |
+| 🔴 Hard | 1 (4.3%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 10
-- 🟡 **Medium**: `███████████░░░░░░░░░` 12
-- 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 0
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 12
+- 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 16 |
+| C++ | 17 |
 | Python | 4 |
 | Unknown | 2 |
 
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | 🔴 Hard | C++ |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | C++ |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | C++ |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | 🟡 Medium | Unknown |
