@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-01 18:18 UTC
+**Last updated:** 2026-08-01 18:37 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **24** |
-| 🟢 Easy | 11 (45.8%) |
-| 🟡 Medium | 12 (50.0%) |
-| 🔴 Hard | 1 (4.2%) |
+| **Total Solved** | **25** |
+| 🟢 Easy | 11 (44.0%) |
+| 🟡 Medium | 13 (52.0%) |
+| 🔴 Hard | 1 (4.0%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 11
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 12
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 13
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 18 |
+| C++ | 19 |
 | Python | 4 |
 | Unknown | 2 |
 
@@ -40,6 +40,7 @@
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | C++ |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | 🟡 Medium | C++ |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
