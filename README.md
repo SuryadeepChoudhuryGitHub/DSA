@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-01 20:26 UTC
+**Last updated:** 2026-08-02 18:50 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **26** |
-| 🟢 Easy | 11 (42.3%) |
-| 🟡 Medium | 14 (53.8%) |
-| 🔴 Hard | 1 (3.8%) |
+| **Total Solved** | **27** |
+| 🟢 Easy | 11 (40.7%) |
+| 🟡 Medium | 15 (55.6%) |
+| 🔴 Hard | 1 (3.7%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `████████░░░░░░░░░░░░` 11
-- 🟡 **Medium**: `███████████░░░░░░░░░` 14
+- 🟡 **Medium**: `███████████░░░░░░░░░` 15
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 20 |
+| C++ | 21 |
 | Python | 4 |
 | Unknown | 2 |
 
@@ -41,6 +41,7 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | 🟡 Medium | C++ |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | C++ |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
