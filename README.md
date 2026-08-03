@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-02 18:50 UTC
+**Last updated:** 2026-08-03 18:23 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **27** |
-| 🟢 Easy | 11 (40.7%) |
-| 🟡 Medium | 15 (55.6%) |
-| 🔴 Hard | 1 (3.7%) |
+| **Total Solved** | **28** |
+| 🟢 Easy | 11 (39.3%) |
+| 🟡 Medium | 16 (57.1%) |
+| 🔴 Hard | 1 (3.6%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `████████░░░░░░░░░░░░` 11
-- 🟡 **Medium**: `███████████░░░░░░░░░` 15
+- 🟡 **Medium**: `███████████░░░░░░░░░` 16
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 21 |
-| Python | 4 |
+| Python | 5 |
 | Unknown | 2 |
 
 ## Solved Problems
@@ -46,6 +46,7 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
+| 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
