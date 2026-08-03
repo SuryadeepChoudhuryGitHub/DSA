@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-03 18:23 UTC
+**Last updated:** 2026-08-03 18:39 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **28** |
-| 🟢 Easy | 11 (39.3%) |
-| 🟡 Medium | 16 (57.1%) |
-| 🔴 Hard | 1 (3.6%) |
+| **Total Solved** | **29** |
+| 🟢 Easy | 11 (37.9%) |
+| 🟡 Medium | 17 (58.6%) |
+| 🔴 Hard | 1 (3.4%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `████████░░░░░░░░░░░░` 11
-- 🟡 **Medium**: `███████████░░░░░░░░░` 16
+- 🟡 **Medium**: `████████████░░░░░░░░` 17
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 21 |
+| C++ | 22 |
 | Python | 5 |
 | Unknown | 2 |
 
@@ -50,6 +50,7 @@
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
+| 909 | [Stone Game](https://leetcode.com/problems/stone-game) | 🟡 Medium | C++ |
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
 | 1446 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 🟡 Medium | C++ |
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
