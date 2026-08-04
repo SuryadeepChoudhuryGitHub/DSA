@@ -11,20 +11,21 @@
  */
 class Solution {
 public:
-    void findDepth(TreeNode* root, vector<int> &depth, int d) {
+    int maximum = 0;
+    void findDepth(TreeNode* root, int d) {
         if (root == nullptr) {
-            depth.push_back(d);
+            if (d > maximum) {
+                maximum = d;
+            }
             return;
         }
         d++;
-        findDepth(root->left, depth, d);
-        findDepth(root->right, depth, d);
+        findDepth(root->left, d);
+        findDepth(root->right, d);
     }
 
     int maxDepth(TreeNode* root) {
-        vector<int> depths = {};
-        findDepth(root, depths, 0);
-        sort(depths.begin(), depths.end());
-        return depths[depths.size()-1];    
+        findDepth(root, 0);
+        return maximum;    
     }
 };
