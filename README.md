@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-03 18:39 UTC
+**Last updated:** 2026-08-04 19:11 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **29** |
-| 🟢 Easy | 11 (37.9%) |
-| 🟡 Medium | 17 (58.6%) |
-| 🔴 Hard | 1 (3.4%) |
+| **Total Solved** | **30** |
+| 🟢 Easy | 12 (40.0%) |
+| 🟡 Medium | 17 (56.7%) |
+| 🔴 Hard | 1 (3.3%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████░░░░░░░░░░░░` 11
-- 🟡 **Medium**: `████████████░░░░░░░░` 17
+- 🟢 **Easy**: `████████░░░░░░░░░░░░` 12
+- 🟡 **Medium**: `███████████░░░░░░░░░` 17
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 22 |
+| C++ | 23 |
 | Python | 5 |
 | Unknown | 2 |
 
@@ -39,6 +39,7 @@
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | C++ |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | C++ |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | C++ |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | 🟡 Medium | C++ |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | C++ |
