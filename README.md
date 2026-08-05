@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-04 19:14 UTC
+**Last updated:** 2026-08-05 11:01 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **30** |
-| 🟢 Easy | 12 (40.0%) |
-| 🟡 Medium | 17 (56.7%) |
-| 🔴 Hard | 1 (3.3%) |
+| **Total Solved** | **31** |
+| 🟢 Easy | 12 (38.7%) |
+| 🟡 Medium | 18 (58.1%) |
+| 🔴 Hard | 1 (3.2%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `████████░░░░░░░░░░░░` 12
-- 🟡 **Medium**: `███████████░░░░░░░░░` 17
+- 🟡 **Medium**: `████████████░░░░░░░░` 18
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 23 |
+| C++ | 24 |
 | Python | 5 |
 | Unknown | 2 |
 
@@ -48,6 +48,7 @@
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
+| 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | 🟡 Medium | C++ |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
