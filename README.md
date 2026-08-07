@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-07 18:11 UTC
+**Last updated:** 2026-08-07 18:15 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **33** |
-| 🟢 Easy | 14 (42.4%) |
-| 🟡 Medium | 18 (54.5%) |
-| 🔴 Hard | 1 (3.0%) |
+| **Total Solved** | **34** |
+| 🟢 Easy | 14 (41.2%) |
+| 🟡 Medium | 19 (55.9%) |
+| 🔴 Hard | 1 (2.9%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `████████░░░░░░░░░░░░` 14
-- 🟡 **Medium**: `███████████░░░░░░░░░` 18
+- 🟡 **Medium**: `███████████░░░░░░░░░` 19
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 25 |
+| C++ | 26 |
 | Python | 6 |
 | Unknown | 2 |
 
@@ -46,6 +46,7 @@
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | 🟡 Medium | C++ |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | 🟡 Medium | C++ |
