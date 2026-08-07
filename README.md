@@ -2,29 +2,29 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-05 11:01 UTC
+**Last updated:** 2026-08-07 18:11 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **31** |
-| 🟢 Easy | 12 (38.7%) |
-| 🟡 Medium | 18 (58.1%) |
-| 🔴 Hard | 1 (3.2%) |
+| **Total Solved** | **33** |
+| 🟢 Easy | 14 (42.4%) |
+| 🟡 Medium | 18 (54.5%) |
+| 🔴 Hard | 1 (3.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████░░░░░░░░░░░░` 12
-- 🟡 **Medium**: `████████████░░░░░░░░` 18
+- 🟢 **Easy**: `████████░░░░░░░░░░░░` 14
+- 🟡 **Medium**: `███████████░░░░░░░░░` 18
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 24 |
-| Python | 5 |
+| C++ | 25 |
+| Python | 6 |
 | Unknown | 2 |
 
 ## Solved Problems
@@ -49,6 +49,7 @@
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | 🟡 Medium | C++ |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Python |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
@@ -59,6 +60,7 @@
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
+| 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
 | 4354 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | 🟢 Easy | C++ |
