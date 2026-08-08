@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-07 18:15 UTC
+**Last updated:** 2026-08-08 17:29 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **34** |
-| 🟢 Easy | 14 (41.2%) |
-| 🟡 Medium | 19 (55.9%) |
+| **Total Solved** | **35** |
+| 🟢 Easy | 15 (42.9%) |
+| 🟡 Medium | 19 (54.3%) |
 | 🔴 Hard | 1 (2.9%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████░░░░░░░░░░░░` 14
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 15
 - 🟡 **Medium**: `███████████░░░░░░░░░` 19
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 26 |
-| Python | 6 |
+| Python | 7 |
 | Unknown | 2 |
 
 ## Solved Problems
@@ -61,6 +61,7 @@
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
+| 2116 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | 🟢 Easy | Python |
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
