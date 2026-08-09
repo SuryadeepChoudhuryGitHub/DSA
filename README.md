@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-08 17:29 UTC
+**Last updated:** 2026-08-09 16:53 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **35** |
-| 🟢 Easy | 15 (42.9%) |
-| 🟡 Medium | 19 (54.3%) |
-| 🔴 Hard | 1 (2.9%) |
+| **Total Solved** | **36** |
+| 🟢 Easy | 15 (41.7%) |
+| 🟡 Medium | 20 (55.6%) |
+| 🔴 Hard | 1 (2.8%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 15
-- 🟡 **Medium**: `███████████░░░░░░░░░` 19
+- 🟢 **Easy**: `████████░░░░░░░░░░░░` 15
+- 🟡 **Medium**: `███████████░░░░░░░░░` 20
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 26 |
+| C++ | 27 |
 | Python | 7 |
 | Unknown | 2 |
 
@@ -48,6 +48,7 @@
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | 🟡 Medium | C++ |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium | C++ |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | 🟡 Medium | C++ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Python |
