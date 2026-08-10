@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-09 16:53 UTC
+**Last updated:** 2026-08-10 15:20 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **36** |
-| 🟢 Easy | 15 (41.7%) |
-| 🟡 Medium | 20 (55.6%) |
-| 🔴 Hard | 1 (2.8%) |
+| **Total Solved** | **37** |
+| 🟢 Easy | 16 (43.2%) |
+| 🟡 Medium | 20 (54.1%) |
+| 🔴 Hard | 1 (2.7%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████░░░░░░░░░░░░` 15
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 16
 - 🟡 **Medium**: `███████████░░░░░░░░░` 20
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 27 |
+| C++ | 28 |
 | Python | 7 |
 | Unknown | 2 |
 
@@ -50,6 +50,7 @@
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium | C++ |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | 🟢 Easy | C++ |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | 🟡 Medium | C++ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Python |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
