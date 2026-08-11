@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-10 15:20 UTC
+**Last updated:** 2026-08-11 16:39 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **37** |
-| 🟢 Easy | 16 (43.2%) |
-| 🟡 Medium | 20 (54.1%) |
-| 🔴 Hard | 1 (2.7%) |
+| **Total Solved** | **38** |
+| 🟢 Easy | 17 (44.7%) |
+| 🟡 Medium | 20 (52.6%) |
+| 🔴 Hard | 1 (2.6%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 16
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 17
 - 🟡 **Medium**: `███████████░░░░░░░░░` 20
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 28 |
+| C++ | 29 |
 | Python | 7 |
 | Unknown | 2 |
 
@@ -45,6 +45,7 @@
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | C++ |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy | C++ |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | 🟡 Medium | C++ |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
