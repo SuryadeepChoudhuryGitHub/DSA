@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-11 16:39 UTC
+**Last updated:** 2026-08-12 16:20 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **38** |
-| 🟢 Easy | 17 (44.7%) |
-| 🟡 Medium | 20 (52.6%) |
+| **Total Solved** | **39** |
+| 🟢 Easy | 18 (46.2%) |
+| 🟡 Medium | 20 (51.3%) |
 | 🔴 Hard | 1 (2.6%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 17
-- 🟡 **Medium**: `███████████░░░░░░░░░` 20
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 18
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 20
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 29 |
-| Python | 7 |
+| Python | 8 |
 | Unknown | 2 |
 
 ## Solved Problems
@@ -52,6 +52,7 @@
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium | C++ |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | 🟢 Easy | C++ |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | 🟢 Easy | Python |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | 🟡 Medium | C++ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Python |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
