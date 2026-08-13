@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-12 16:20 UTC
+**Last updated:** 2026-08-13 18:15 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **39** |
-| 🟢 Easy | 18 (46.2%) |
-| 🟡 Medium | 20 (51.3%) |
-| 🔴 Hard | 1 (2.6%) |
+| **Total Solved** | **40** |
+| 🟢 Easy | 18 (45.0%) |
+| 🟡 Medium | 21 (52.5%) |
+| 🔴 Hard | 1 (2.5%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 18
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 20
-- 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 1
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 21
+- 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 29 |
+| C++ | 30 |
 | Python | 8 |
 | Unknown | 2 |
 
@@ -60,6 +60,7 @@
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
 | 909 | [Stone Game](https://leetcode.com/problems/stone-game) | 🟡 Medium | C++ |
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
+| 1072 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list) | 🟡 Medium | C++ |
 | 1446 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 🟡 Medium | C++ |
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
