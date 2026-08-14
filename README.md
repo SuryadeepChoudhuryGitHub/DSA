@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-13 18:15 UTC
+**Last updated:** 2026-08-14 17:22 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **40** |
-| 🟢 Easy | 18 (45.0%) |
-| 🟡 Medium | 21 (52.5%) |
-| 🔴 Hard | 1 (2.5%) |
+| **Total Solved** | **41** |
+| 🟢 Easy | 19 (46.3%) |
+| 🟡 Medium | 21 (51.2%) |
+| 🔴 Hard | 1 (2.4%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 18
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 19
 - 🟡 **Medium**: `██████████░░░░░░░░░░` 21
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 30 |
-| Python | 8 |
+| Python | 9 |
 | Unknown | 2 |
 
 ## Solved Problems
@@ -55,6 +55,7 @@
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | 🟢 Easy | Python |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | 🟡 Medium | C++ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Python |
+| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | 🟢 Easy | Python |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
