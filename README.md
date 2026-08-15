@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-14 17:22 UTC
+**Last updated:** 2026-08-15 17:15 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **41** |
-| 🟢 Easy | 19 (46.3%) |
-| 🟡 Medium | 21 (51.2%) |
+| **Total Solved** | **42** |
+| 🟢 Easy | 19 (45.2%) |
+| 🟡 Medium | 22 (52.4%) |
 | 🔴 Hard | 1 (2.4%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 19
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 21
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 22
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 30 |
-| Python | 9 |
+| Python | 10 |
 | Unknown | 2 |
 
 ## Solved Problems
@@ -71,4 +71,5 @@
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
+| 4297 | [Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse) | 🟡 Medium | Python |
 | 4354 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | 🟢 Easy | C++ |
