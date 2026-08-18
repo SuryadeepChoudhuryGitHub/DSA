@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-17 18:26 UTC
+**Last updated:** 2026-08-18 17:20 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **42** |
-| 🟢 Easy | 19 (45.2%) |
-| 🟡 Medium | 22 (52.4%) |
-| 🔴 Hard | 1 (2.4%) |
+| **Total Solved** | **43** |
+| 🟢 Easy | 20 (46.5%) |
+| 🟡 Medium | 22 (51.2%) |
+| 🔴 Hard | 1 (2.3%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 19
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 20
 - 🟡 **Medium**: `██████████░░░░░░░░░░` 22
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
@@ -25,7 +25,7 @@
 |---|---|
 | C++ | 30 |
 | Python | 10 |
-| Unknown | 2 |
+| Unknown | 3 |
 
 ## Solved Problems
 
@@ -57,6 +57,7 @@
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Python |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | 🟢 Easy | Python |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
+| 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | 🟢 Easy | Unknown |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
 | 909 | [Stone Game](https://leetcode.com/problems/stone-game) | 🟡 Medium | C++ |
