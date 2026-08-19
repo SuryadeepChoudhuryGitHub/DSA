@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-18 17:20 UTC
+**Last updated:** 2026-08-19 18:29 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **43** |
-| 🟢 Easy | 20 (46.5%) |
-| 🟡 Medium | 22 (51.2%) |
+| **Total Solved** | **44** |
+| 🟢 Easy | 21 (47.7%) |
+| 🟡 Medium | 22 (50.0%) |
 | 🔴 Hard | 1 (2.3%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 20
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 21
 - 🟡 **Medium**: `██████████░░░░░░░░░░` 22
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 30 |
-| Python | 10 |
+| Python | 11 |
 | Unknown | 3 |
 
 ## Solved Problems
@@ -35,6 +35,7 @@
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | C++ |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | C++ |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | 🟡 Medium | Unknown |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | 🟢 Easy | Python |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | C++ |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | C++ |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | C++ |
