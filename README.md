@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-19 18:29 UTC
+**Last updated:** 2026-08-19 18:34 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **44** |
-| 🟢 Easy | 21 (47.7%) |
-| 🟡 Medium | 22 (50.0%) |
-| 🔴 Hard | 1 (2.3%) |
+| **Total Solved** | **45** |
+| 🟢 Easy | 21 (46.7%) |
+| 🟡 Medium | 23 (51.1%) |
+| 🔴 Hard | 1 (2.2%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 21
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 22
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 21
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 23
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 30 |
+| C++ | 31 |
 | Python | 11 |
 | Unknown | 3 |
 
@@ -63,6 +63,7 @@
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
 | 909 | [Stone Game](https://leetcode.com/problems/stone-game) | 🟡 Medium | C++ |
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
+| 1014 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | 🟡 Medium | C++ |
 | 1072 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list) | 🟡 Medium | C++ |
 | 1446 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 🟡 Medium | C++ |
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
