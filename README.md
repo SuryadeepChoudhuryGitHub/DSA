@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-19 18:34 UTC
+**Last updated:** 2026-08-20 18:22 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **45** |
-| 🟢 Easy | 21 (46.7%) |
-| 🟡 Medium | 23 (51.1%) |
+| **Total Solved** | **46** |
+| 🟢 Easy | 21 (45.7%) |
+| 🟡 Medium | 24 (52.2%) |
 | 🔴 Hard | 1 (2.2%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 21
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 23
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 24
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 31 |
+| C++ | 32 |
 | Python | 11 |
 | Unknown | 3 |
 
@@ -71,6 +71,7 @@
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2116 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | 🟢 Easy | Python |
+| 2212 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | 🟡 Medium | C++ |
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
