@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-20 18:22 UTC
+**Last updated:** 2026-08-21 17:51 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **46** |
-| 🟢 Easy | 21 (45.7%) |
-| 🟡 Medium | 24 (52.2%) |
-| 🔴 Hard | 1 (2.2%) |
+| **Total Solved** | **47** |
+| 🟢 Easy | 21 (44.7%) |
+| 🟡 Medium | 25 (53.2%) |
+| 🔴 Hard | 1 (2.1%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 21
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 24
+- 🟡 **Medium**: `███████████░░░░░░░░░` 25
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 32 |
+| C++ | 33 |
 | Python | 11 |
 | Unknown | 3 |
 
@@ -73,6 +73,7 @@
 | 2116 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | 🟢 Easy | Python |
 | 2212 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | 🟡 Medium | C++ |
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
+| 2541 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse) | 🟡 Medium | C++ |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
 | 4297 | [Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse) | 🟡 Medium | Python |
