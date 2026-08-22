@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-21 17:52 UTC
+**Last updated:** 2026-08-22 17:50 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **47** |
-| 🟢 Easy | 21 (44.7%) |
-| 🟡 Medium | 25 (53.2%) |
+| **Total Solved** | **48** |
+| 🟢 Easy | 21 (43.8%) |
+| 🟡 Medium | 26 (54.2%) |
 | 🔴 Hard | 1 (2.1%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 21
-- 🟡 **Medium**: `███████████░░░░░░░░░` 25
+- 🟡 **Medium**: `███████████░░░░░░░░░` 26
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 33 |
+| C++ | 34 |
 | Python | 11 |
 | Unknown | 3 |
 
@@ -40,6 +40,7 @@
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | C++ |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | C++ |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | 🟡 Medium | C++ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | C++ |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | 🟡 Medium | C++ |
