@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-22 17:50 UTC
+**Last updated:** 2026-08-22 18:09 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **48** |
-| 🟢 Easy | 21 (43.8%) |
-| 🟡 Medium | 26 (54.2%) |
-| 🔴 Hard | 1 (2.1%) |
+| **Total Solved** | **49** |
+| 🟢 Easy | 22 (44.9%) |
+| 🟡 Medium | 26 (53.1%) |
+| 🔴 Hard | 1 (2.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 21
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 22
 - 🟡 **Medium**: `███████████░░░░░░░░░` 26
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 34 |
+| C++ | 35 |
 | Python | 11 |
 | Unknown | 3 |
 
@@ -38,6 +38,7 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | 🟢 Easy | Python |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | C++ |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | C++ |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | 🟢 Easy | C++ |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | C++ |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | 🟡 Medium | C++ |
