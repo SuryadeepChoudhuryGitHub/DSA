@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-22 18:09 UTC
+**Last updated:** 2026-08-23 18:09 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **49** |
-| 🟢 Easy | 22 (44.9%) |
-| 🟡 Medium | 26 (53.1%) |
+| **Total Solved** | **50** |
+| 🟢 Easy | 23 (46.0%) |
+| 🟡 Medium | 26 (52.0%) |
 | 🔴 Hard | 1 (2.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 22
-- 🟡 **Medium**: `███████████░░░░░░░░░` 26
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 23
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 26
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 35 |
-| Python | 11 |
+| Python | 12 |
 | Unknown | 3 |
 
 ## Solved Problems
@@ -34,6 +34,7 @@
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | 🔴 Hard | C++ |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | C++ |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | C++ |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy | Python |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | 🟡 Medium | Unknown |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | 🟢 Easy | Python |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | C++ |
