@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-23 18:09 UTC
+**Last updated:** 2026-08-24 14:01 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **50** |
-| 🟢 Easy | 23 (46.0%) |
-| 🟡 Medium | 26 (52.0%) |
+| **Total Solved** | **51** |
+| 🟢 Easy | 23 (45.1%) |
+| 🟡 Medium | 27 (52.9%) |
 | 🔴 Hard | 1 (2.0%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 23
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 26
+- 🟡 **Medium**: `███████████░░░░░░░░░` 27
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 35 |
+| C++ | 36 |
 | Python | 12 |
 | Unknown | 3 |
 
@@ -61,6 +61,7 @@
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Python |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | 🟢 Easy | Python |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | 🟡 Medium | C++ |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | 🟢 Easy | Unknown |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
