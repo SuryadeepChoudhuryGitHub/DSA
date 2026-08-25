@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-25 17:49 UTC
+**Last updated:** 2026-08-25 21:20 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **53** |
-| 🟢 Easy | 24 (45.3%) |
-| 🟡 Medium | 28 (52.8%) |
+| **Total Solved** | **54** |
+| 🟢 Easy | 25 (46.3%) |
+| 🟡 Medium | 28 (51.9%) |
 | 🔴 Hard | 1 (1.9%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 24
-- 🟡 **Medium**: `███████████░░░░░░░░░` 28
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 25
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 28
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
@@ -25,7 +25,7 @@
 |---|---|
 | C++ | 37 |
 | Python | 12 |
-| Unknown | 4 |
+| Unknown | 5 |
 
 ## Solved Problems
 
@@ -82,5 +82,6 @@
 | 2541 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse) | 🟡 Medium | C++ |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
+| 4080 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | Unknown |
 | 4297 | [Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse) | 🟡 Medium | Python |
 | 4354 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | 🟢 Easy | C++ |
