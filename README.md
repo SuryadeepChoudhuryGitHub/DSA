@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-25 12:14 UTC
+**Last updated:** 2026-08-25 17:49 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **52** |
-| 🟢 Easy | 24 (46.2%) |
-| 🟡 Medium | 27 (51.9%) |
+| **Total Solved** | **53** |
+| 🟢 Easy | 24 (45.3%) |
+| 🟡 Medium | 28 (52.8%) |
 | 🔴 Hard | 1 (1.9%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 24
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 27
+- 🟡 **Medium**: `███████████░░░░░░░░░` 28
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 36 |
+| C++ | 37 |
 | Python | 12 |
 | Unknown | 4 |
 
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | 🟢 Easy | Unknown |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | C++ |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | 🔴 Hard | C++ |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | C++ |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | C++ |
