@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-24 14:01 UTC
+**Last updated:** 2026-08-25 12:14 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **51** |
-| 🟢 Easy | 23 (45.1%) |
-| 🟡 Medium | 27 (52.9%) |
-| 🔴 Hard | 1 (2.0%) |
+| **Total Solved** | **52** |
+| 🟢 Easy | 24 (46.2%) |
+| 🟡 Medium | 27 (51.9%) |
+| 🔴 Hard | 1 (1.9%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 23
-- 🟡 **Medium**: `███████████░░░░░░░░░` 27
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 24
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 27
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
@@ -25,12 +25,13 @@
 |---|---|
 | C++ | 36 |
 | Python | 12 |
-| Unknown | 3 |
+| Unknown | 4 |
 
 ## Solved Problems
 
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | 🟢 Easy | Unknown |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | 🔴 Hard | C++ |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | C++ |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | C++ |
