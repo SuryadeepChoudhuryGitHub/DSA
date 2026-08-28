@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-27 18:15 UTC
+**Last updated:** 2026-08-28 16:40 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **55** |
-| 🟢 Easy | 25 (45.5%) |
-| 🟡 Medium | 29 (52.7%) |
+| **Total Solved** | **56** |
+| 🟢 Easy | 25 (44.6%) |
+| 🟡 Medium | 30 (53.6%) |
 | 🔴 Hard | 1 (1.8%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 25
-- 🟡 **Medium**: `███████████░░░░░░░░░` 29
+- 🟡 **Medium**: `███████████░░░░░░░░░` 30
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 37 |
+| C++ | 38 |
 | Python | 13 |
 | Unknown | 5 |
 
@@ -81,6 +81,7 @@
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
 | 2541 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse) | 🟡 Medium | C++ |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
+| 2903 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | 🟡 Medium | C++ |
 | 3541 | [Report Spam Message](https://leetcode.com/problems/report-spam-message) | 🟡 Medium | Python |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
 | 4080 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | Unknown |
