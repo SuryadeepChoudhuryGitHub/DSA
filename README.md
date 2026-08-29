@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-28 16:40 UTC
+**Last updated:** 2026-08-29 17:34 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **56** |
-| 🟢 Easy | 25 (44.6%) |
-| 🟡 Medium | 30 (53.6%) |
+| **Total Solved** | **57** |
+| 🟢 Easy | 26 (45.6%) |
+| 🟡 Medium | 30 (52.6%) |
 | 🔴 Hard | 1 (1.8%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 25
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 26
 - 🟡 **Medium**: `███████████░░░░░░░░░` 30
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 38 |
-| Python | 13 |
+| Python | 14 |
 | Unknown | 5 |
 
 ## Solved Problems
@@ -71,6 +71,7 @@
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
 | 1014 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | 🟡 Medium | C++ |
 | 1072 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list) | 🟡 Medium | C++ |
+| 1205 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | 🟢 Easy | Python |
 | 1446 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 🟡 Medium | C++ |
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
