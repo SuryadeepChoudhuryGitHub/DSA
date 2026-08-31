@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-29 17:34 UTC
+**Last updated:** 2026-08-31 17:13 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **57** |
-| 🟢 Easy | 26 (45.6%) |
-| 🟡 Medium | 30 (52.6%) |
-| 🔴 Hard | 1 (1.8%) |
+| **Total Solved** | **58** |
+| 🟢 Easy | 26 (44.8%) |
+| 🟡 Medium | 31 (53.4%) |
+| 🔴 Hard | 1 (1.7%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 26
-- 🟡 **Medium**: `███████████░░░░░░░░░` 30
+- 🟡 **Medium**: `███████████░░░░░░░░░` 31
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 38 |
+| C++ | 39 |
 | Python | 14 |
 | Unknown | 5 |
 
@@ -55,6 +55,7 @@
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | 🟡 Medium | C++ |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | C++ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium | C++ |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | 🟢 Easy | C++ |
