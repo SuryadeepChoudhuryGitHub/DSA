@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-08-31 17:13 UTC
+**Last updated:** 2026-09-01 18:15 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **58** |
-| 🟢 Easy | 26 (44.8%) |
-| 🟡 Medium | 31 (53.4%) |
+| **Total Solved** | **59** |
+| 🟢 Easy | 26 (44.1%) |
+| 🟡 Medium | 32 (54.2%) |
 | 🔴 Hard | 1 (1.7%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 26
-- 🟡 **Medium**: `███████████░░░░░░░░░` 31
+- 🟡 **Medium**: `███████████░░░░░░░░░` 32
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 39 |
+| C++ | 40 |
 | Python | 14 |
 | Unknown | 5 |
 
@@ -53,6 +53,7 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy | C++ |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | 🟡 Medium | C++ |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | 🟡 Medium | C++ |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | C++ |
