@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-01 18:15 UTC
+**Last updated:** 2026-09-02 18:13 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **59** |
-| 🟢 Easy | 26 (44.1%) |
-| 🟡 Medium | 32 (54.2%) |
+| **Total Solved** | **60** |
+| 🟢 Easy | 26 (43.3%) |
+| 🟡 Medium | 33 (55.0%) |
 | 🔴 Hard | 1 (1.7%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 26
-- 🟡 **Medium**: `███████████░░░░░░░░░` 32
+- 🟡 **Medium**: `███████████░░░░░░░░░` 33
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 40 |
+| C++ | 41 |
 | Python | 14 |
 | Unknown | 5 |
 
@@ -81,6 +81,7 @@
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2116 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | 🟢 Easy | Python |
 | 2212 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | 🟡 Medium | C++ |
+| 2271 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | 🟡 Medium | C++ |
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
 | 2541 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse) | 🟡 Medium | C++ |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
