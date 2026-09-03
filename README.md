@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-03 18:04 UTC
+**Last updated:** 2026-09-03 19:29 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **61** |
-| 🟢 Easy | 27 (44.3%) |
-| 🟡 Medium | 33 (54.1%) |
+| **Total Solved** | **62** |
+| 🟢 Easy | 28 (45.2%) |
+| 🟡 Medium | 33 (53.2%) |
 | 🔴 Hard | 1 (1.6%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 27
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 28
 - 🟡 **Medium**: `███████████░░░░░░░░░` 33
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 42 |
+| C++ | 43 |
 | Python | 14 |
 | Unknown | 5 |
 
@@ -90,5 +90,6 @@
 | 3541 | [Report Spam Message](https://leetcode.com/problems/report-spam-message) | 🟡 Medium | Python |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
 | 4080 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | Unknown |
+| 4256 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
 | 4297 | [Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse) | 🟡 Medium | Python |
 | 4354 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | 🟢 Easy | C++ |
