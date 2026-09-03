@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-02 18:13 UTC
+**Last updated:** 2026-09-03 18:04 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **60** |
-| 🟢 Easy | 26 (43.3%) |
-| 🟡 Medium | 33 (55.0%) |
-| 🔴 Hard | 1 (1.7%) |
+| **Total Solved** | **61** |
+| 🟢 Easy | 27 (44.3%) |
+| 🟡 Medium | 33 (54.1%) |
+| 🔴 Hard | 1 (1.6%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 26
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 27
 - 🟡 **Medium**: `███████████░░░░░░░░░` 33
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 41 |
+| C++ | 42 |
 | Python | 14 |
 | Unknown | 5 |
 
@@ -57,6 +57,7 @@
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | 🟡 Medium | C++ |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | C++ |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number) | 🟢 Easy | C++ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium | C++ |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | 🟢 Easy | C++ |
