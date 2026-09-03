@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-03 19:29 UTC
+**Last updated:** 2026-09-03 20:00 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **62** |
-| 🟢 Easy | 28 (45.2%) |
-| 🟡 Medium | 33 (53.2%) |
-| 🔴 Hard | 1 (1.6%) |
+| **Total Solved** | **63** |
+| 🟢 Easy | 28 (44.4%) |
+| 🟡 Medium | 33 (52.4%) |
+| 🔴 Hard | 2 (3.2%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 28
-- 🟡 **Medium**: `███████████░░░░░░░░░` 33
-- 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 1
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 33
+- 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 43 |
+| C++ | 44 |
 | Python | 14 |
 | Unknown | 5 |
 
@@ -39,6 +39,7 @@
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy | Python |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | 🟡 Medium | Unknown |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | 🟢 Easy | Python |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | C++ |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | C++ |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | C++ |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | 🟢 Easy | C++ |
