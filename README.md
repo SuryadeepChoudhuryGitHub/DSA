@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-03 20:00 UTC
+**Last updated:** 2026-09-04 16:12 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **63** |
-| 🟢 Easy | 28 (44.4%) |
-| 🟡 Medium | 33 (52.4%) |
-| 🔴 Hard | 2 (3.2%) |
+| **Total Solved** | **64** |
+| 🟢 Easy | 28 (43.8%) |
+| 🟡 Medium | 34 (53.1%) |
+| 🔴 Hard | 2 (3.1%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 28
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 33
+- 🟡 **Medium**: `███████████░░░░░░░░░` 34
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 44 |
+| C++ | 45 |
 | Python | 14 |
 | Unknown | 5 |
 
@@ -58,6 +58,7 @@
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | 🟡 Medium | C++ |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | C++ |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | 🟡 Medium | C++ |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | 🟢 Easy | C++ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium | C++ |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
