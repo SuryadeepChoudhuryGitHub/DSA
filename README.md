@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-04 16:12 UTC
+**Last updated:** 2026-09-05 16:48 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **64** |
-| 🟢 Easy | 28 (43.8%) |
-| 🟡 Medium | 34 (53.1%) |
+| **Total Solved** | **65** |
+| 🟢 Easy | 28 (43.1%) |
+| 🟡 Medium | 35 (53.8%) |
 | 🔴 Hard | 2 (3.1%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 28
-- 🟡 **Medium**: `███████████░░░░░░░░░` 34
+- 🟡 **Medium**: `███████████░░░░░░░░░` 35
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 45 |
+| C++ | 46 |
 | Python | 14 |
 | Unknown | 5 |
 
@@ -50,6 +50,7 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | 🟡 Medium | C++ |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | C++ |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | 🟡 Medium | C++ |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy | C++ |
