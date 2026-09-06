@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-05 16:48 UTC
+**Last updated:** 2026-09-06 17:34 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **65** |
-| 🟢 Easy | 28 (43.1%) |
-| 🟡 Medium | 35 (53.8%) |
-| 🔴 Hard | 2 (3.1%) |
+| **Total Solved** | **66** |
+| 🟢 Easy | 28 (42.4%) |
+| 🟡 Medium | 36 (54.5%) |
+| 🔴 Hard | 2 (3.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 28
-- 🟡 **Medium**: `███████████░░░░░░░░░` 35
+- 🟢 **Easy**: `████████░░░░░░░░░░░░` 28
+- 🟡 **Medium**: `███████████░░░░░░░░░` 36
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 46 |
+| C++ | 47 |
 | Python | 14 |
 | Unknown | 5 |
 
@@ -59,6 +59,7 @@
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | 🟡 Medium | C++ |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | 🟡 Medium | C++ |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | C++ |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | 🟡 Medium | C++ |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | 🟡 Medium | C++ |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | 🟢 Easy | C++ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium | C++ |
