@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-07 18:25 UTC
+**Last updated:** 2026-09-07 18:33 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **67** |
-| 🟢 Easy | 29 (43.3%) |
-| 🟡 Medium | 36 (53.7%) |
-| 🔴 Hard | 2 (3.0%) |
+| **Total Solved** | **68** |
+| 🟢 Easy | 30 (44.1%) |
+| 🟡 Medium | 36 (52.9%) |
+| 🔴 Hard | 2 (2.9%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 29
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 30
 - 🟡 **Medium**: `███████████░░░░░░░░░` 36
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 47 |
+| C++ | 48 |
 | Python | 15 |
 | Unknown | 5 |
 
@@ -46,6 +46,7 @@
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | C++ |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | 🟡 Medium | C++ |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | C++ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | C++ |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Python |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
