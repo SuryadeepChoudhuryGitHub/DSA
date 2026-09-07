@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-06 17:34 UTC
+**Last updated:** 2026-09-07 18:25 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **66** |
-| 🟢 Easy | 28 (42.4%) |
-| 🟡 Medium | 36 (54.5%) |
+| **Total Solved** | **67** |
+| 🟢 Easy | 29 (43.3%) |
+| 🟡 Medium | 36 (53.7%) |
 | 🔴 Hard | 2 (3.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████░░░░░░░░░░░░` 28
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 29
 - 🟡 **Medium**: `███████████░░░░░░░░░` 36
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 47 |
-| Python | 14 |
+| Python | 15 |
 | Unknown | 5 |
 
 ## Solved Problems
@@ -47,6 +47,7 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | 🟡 Medium | C++ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | C++ |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Python |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | 🟡 Medium | C++ |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | C++ |
