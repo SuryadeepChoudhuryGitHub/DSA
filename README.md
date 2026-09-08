@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-07 18:33 UTC
+**Last updated:** 2026-09-08 17:59 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **68** |
-| 🟢 Easy | 30 (44.1%) |
-| 🟡 Medium | 36 (52.9%) |
+| **Total Solved** | **69** |
+| 🟢 Easy | 30 (43.5%) |
+| 🟡 Medium | 37 (53.6%) |
 | 🔴 Hard | 2 (2.9%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 30
-- 🟡 **Medium**: `███████████░░░░░░░░░` 36
+- 🟡 **Medium**: `███████████░░░░░░░░░` 37
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 48 |
+| C++ | 49 |
 | Python | 15 |
 | Unknown | 5 |
 
@@ -64,6 +64,7 @@
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | 🟡 Medium | C++ |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | 🟡 Medium | C++ |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | 🟢 Easy | C++ |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | C++ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium | C++ |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | 🟢 Easy | C++ |
