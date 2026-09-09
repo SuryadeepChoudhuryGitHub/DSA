@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-08 17:59 UTC
+**Last updated:** 2026-09-09 17:19 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **69** |
-| 🟢 Easy | 30 (43.5%) |
-| 🟡 Medium | 37 (53.6%) |
+| **Total Solved** | **70** |
+| 🟢 Easy | 31 (44.3%) |
+| 🟡 Medium | 37 (52.9%) |
 | 🔴 Hard | 2 (2.9%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 30
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 31
 - 🟡 **Medium**: `███████████░░░░░░░░░` 37
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 49 |
-| Python | 15 |
+| Python | 16 |
 | Unknown | 5 |
 
 ## Solved Problems
@@ -72,6 +72,7 @@
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | 🟡 Medium | C++ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Python |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | 🟢 Easy | Python |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | 🟢 Easy | Python |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | 🟡 Medium | C++ |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | 🟢 Easy | Unknown |
