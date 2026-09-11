@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-10 16:47 UTC
+**Last updated:** 2026-09-11 18:20 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **71** |
-| 🟢 Easy | 32 (45.1%) |
-| 🟡 Medium | 37 (52.1%) |
+| **Total Solved** | **72** |
+| 🟢 Easy | 32 (44.4%) |
+| 🟡 Medium | 38 (52.8%) |
 | 🔴 Hard | 2 (2.8%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 32
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 37
+- 🟡 **Medium**: `███████████░░░░░░░░░` 38
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 50 |
+| C++ | 51 |
 | Python | 16 |
 | Unknown | 5 |
 
@@ -49,6 +49,7 @@
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | C++ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | C++ |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Python |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | 🟡 Medium | C++ |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | 🟡 Medium | C++ |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | C++ |
