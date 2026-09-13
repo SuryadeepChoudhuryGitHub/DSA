@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-12 17:10 UTC
+**Last updated:** 2026-09-13 17:36 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **73** |
-| 🟢 Easy | 33 (45.2%) |
-| 🟡 Medium | 38 (52.1%) |
+| **Total Solved** | **74** |
+| 🟢 Easy | 34 (45.9%) |
+| 🟡 Medium | 38 (51.4%) |
 | 🔴 Hard | 2 (2.7%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 33
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 34
 - 🟡 **Medium**: `██████████░░░░░░░░░░` 38
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 52 |
+| C++ | 53 |
 | Python | 16 |
 | Unknown | 5 |
 
@@ -104,3 +104,4 @@
 | 4256 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
 | 4297 | [Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse) | 🟡 Medium | Python |
 | 4354 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | 🟢 Easy | C++ |
+| 4410 | [Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block) | 🟢 Easy | C++ |
