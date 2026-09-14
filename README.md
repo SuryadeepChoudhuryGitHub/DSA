@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-13 17:36 UTC
+**Last updated:** 2026-09-14 18:20 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **74** |
-| 🟢 Easy | 34 (45.9%) |
-| 🟡 Medium | 38 (51.4%) |
+| **Total Solved** | **75** |
+| 🟢 Easy | 35 (46.7%) |
+| 🟡 Medium | 38 (50.7%) |
 | 🔴 Hard | 2 (2.7%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 34
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 35
 - 🟡 **Medium**: `██████████░░░░░░░░░░` 38
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 53 |
-| Python | 16 |
+| Python | 17 |
 | Unknown | 5 |
 
 ## Solved Problems
@@ -70,6 +70,7 @@
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | 🟢 Easy | C++ |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | 🟢 Easy | Python |
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | 🟢 Easy | Python |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | 🟡 Medium | C++ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Python |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | 🟢 Easy | Python |
