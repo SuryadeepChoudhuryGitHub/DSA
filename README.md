@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-14 18:20 UTC
+**Last updated:** 2026-09-15 16:58 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **75** |
-| 🟢 Easy | 35 (46.7%) |
-| 🟡 Medium | 38 (50.7%) |
-| 🔴 Hard | 2 (2.7%) |
+| **Total Solved** | **76** |
+| 🟢 Easy | 36 (47.4%) |
+| 🟡 Medium | 38 (50.0%) |
+| 🔴 Hard | 2 (2.6%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 35
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 36
 - 🟡 **Medium**: `██████████░░░░░░░░░░` 38
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
@@ -25,7 +25,7 @@
 |---|---|
 | C++ | 53 |
 | Python | 17 |
-| Unknown | 5 |
+| Unknown | 6 |
 
 ## Solved Problems
 
@@ -79,6 +79,7 @@
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | 🟡 Medium | C++ |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | 🟢 Easy | C++ |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | 🟢 Easy | Unknown |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | 🟢 Easy | Unknown |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
