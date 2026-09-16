@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-15 16:58 UTC
+**Last updated:** 2026-09-16 18:04 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **76** |
-| 🟢 Easy | 36 (47.4%) |
-| 🟡 Medium | 38 (50.0%) |
+| **Total Solved** | **77** |
+| 🟢 Easy | 36 (46.8%) |
+| 🟡 Medium | 39 (50.6%) |
 | 🔴 Hard | 2 (2.6%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████░░░░░░░░░░░` 36
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 38
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 39
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
 ## Language Breakdown
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 53 |
-| Python | 17 |
+| Python | 18 |
 | Unknown | 6 |
 
 ## Solved Problems
@@ -91,6 +91,7 @@
 | 1446 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 🟡 Medium | C++ |
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
+| 1585 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | 🟡 Medium | Python |
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2116 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | 🟢 Easy | Python |
