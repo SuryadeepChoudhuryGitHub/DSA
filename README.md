@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-16 18:04 UTC
+**Last updated:** 2026-09-17 18:07 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **77** |
-| 🟢 Easy | 36 (46.8%) |
-| 🟡 Medium | 39 (50.6%) |
+| **Total Solved** | **78** |
+| 🟢 Easy | 37 (47.4%) |
+| 🟡 Medium | 39 (50.0%) |
 | 🔴 Hard | 2 (2.6%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████░░░░░░░░░░░` 36
+- 🟢 **Easy**: `█████████░░░░░░░░░░░` 37
 - 🟡 **Medium**: `██████████░░░░░░░░░░` 39
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 53 |
-| Python | 18 |
+| Python | 19 |
 | Unknown | 6 |
 
 ## Solved Problems
@@ -67,6 +67,7 @@
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | 🟢 Easy | C++ |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | C++ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium | C++ |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | 🟢 Easy | Python |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | 🟢 Easy | C++ |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | 🟢 Easy | Python |
