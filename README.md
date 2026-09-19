@@ -2,29 +2,29 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-18 18:00 UTC
+**Last updated:** 2026-09-19 15:26 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **79** |
-| 🟢 Easy | 38 (48.1%) |
-| 🟡 Medium | 39 (49.4%) |
+| **Total Solved** | **80** |
+| 🟢 Easy | 39 (48.8%) |
+| 🟡 Medium | 39 (48.8%) |
 | 🔴 Hard | 2 (2.5%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 38
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 39
 - 🟡 **Medium**: `██████████░░░░░░░░░░` 39
-- 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 2
+- 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 2
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
 | C++ | 53 |
-| Python | 20 |
+| Python | 21 |
 | Unknown | 6 |
 
 ## Solved Problems
@@ -95,6 +95,7 @@
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
 | 1585 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | 🟡 Medium | Python |
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
+| 1651 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | 🟢 Easy | Python |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2116 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | 🟢 Easy | Python |
 | 2212 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | 🟡 Medium | C++ |
