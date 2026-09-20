@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-19 15:26 UTC
+**Last updated:** 2026-09-20 17:24 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **80** |
-| 🟢 Easy | 39 (48.8%) |
-| 🟡 Medium | 39 (48.8%) |
+| **Total Solved** | **81** |
+| 🟢 Easy | 40 (49.4%) |
+| 🟡 Medium | 39 (48.1%) |
 | 🔴 Hard | 2 (2.5%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 39
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 40
 - 🟡 **Medium**: `██████████░░░░░░░░░░` 39
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 2
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 53 |
+| C++ | 54 |
 | Python | 21 |
 | Unknown | 6 |
 
@@ -105,6 +105,7 @@
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 2903 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | 🟡 Medium | C++ |
 | 3541 | [Report Spam Message](https://leetcode.com/problems/report-spam-message) | 🟡 Medium | Python |
+| 3811 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
 | 4080 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | Unknown |
 | 4256 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
