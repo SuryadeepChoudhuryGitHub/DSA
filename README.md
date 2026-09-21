@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-20 17:24 UTC
+**Last updated:** 2026-09-21 14:19 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **81** |
-| 🟢 Easy | 40 (49.4%) |
-| 🟡 Medium | 39 (48.1%) |
-| 🔴 Hard | 2 (2.5%) |
+| **Total Solved** | **82** |
+| 🟢 Easy | 41 (50.0%) |
+| 🟡 Medium | 39 (47.6%) |
+| 🔴 Hard | 2 (2.4%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 40
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 41
 - 🟡 **Medium**: `██████████░░░░░░░░░░` 39
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 2
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 54 |
+| C++ | 55 |
 | Python | 21 |
 | Unknown | 6 |
 
@@ -83,6 +83,7 @@
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | 🟢 Easy | Python |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | 🟢 Easy | Unknown |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | 🟢 Easy | Unknown |
+| 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | 🟢 Easy | C++ |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
 | 909 | [Stone Game](https://leetcode.com/problems/stone-game) | 🟡 Medium | C++ |
