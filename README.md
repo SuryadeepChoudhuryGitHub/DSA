@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-22 17:50 UTC
+**Last updated:** 2026-09-22 17:58 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **85** |
-| 🟢 Easy | 42 (49.4%) |
-| 🟡 Medium | 41 (48.2%) |
-| 🔴 Hard | 2 (2.4%) |
+| **Total Solved** | **86** |
+| 🟢 Easy | 42 (48.8%) |
+| 🟡 Medium | 41 (47.7%) |
+| 🔴 Hard | 3 (3.5%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `██████████░░░░░░░░░░` 42
 - 🟡 **Medium**: `██████████░░░░░░░░░░` 41
-- 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 2
+- 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 58 |
+| C++ | 59 |
 | Python | 21 |
 | Unknown | 6 |
 
@@ -55,6 +55,7 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | 🟡 Medium | C++ |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | C++ |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | 🔴 Hard | C++ |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | 🟡 Medium | C++ |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
