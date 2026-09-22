@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-22 16:57 UTC
+**Last updated:** 2026-09-22 17:26 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **83** |
-| 🟢 Easy | 42 (50.6%) |
-| 🟡 Medium | 39 (47.0%) |
+| **Total Solved** | **84** |
+| 🟢 Easy | 42 (50.0%) |
+| 🟡 Medium | 40 (47.6%) |
 | 🔴 Hard | 2 (2.4%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `██████████░░░░░░░░░░` 42
-- 🟡 **Medium**: `█████████░░░░░░░░░░░` 39
+- 🟡 **Medium**: `██████████░░░░░░░░░░` 40
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 2
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 56 |
+| C++ | 57 |
 | Python | 21 |
 | Unknown | 6 |
 
@@ -47,6 +47,7 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Python |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | 🟡 Medium | C++ |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | C++ |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | C++ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | C++ |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Python |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | 🟡 Medium | C++ |
