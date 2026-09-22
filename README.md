@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-21 14:19 UTC
+**Last updated:** 2026-09-22 16:57 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **82** |
-| 🟢 Easy | 41 (50.0%) |
-| 🟡 Medium | 39 (47.6%) |
+| **Total Solved** | **83** |
+| 🟢 Easy | 42 (50.6%) |
+| 🟡 Medium | 39 (47.0%) |
 | 🔴 Hard | 2 (2.4%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 41
-- 🟡 **Medium**: `██████████░░░░░░░░░░` 39
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 42
+- 🟡 **Medium**: `█████████░░░░░░░░░░░` 39
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 2
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 55 |
+| C++ | 56 |
 | Python | 21 |
 | Unknown | 6 |
 
@@ -85,6 +85,7 @@
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | 🟢 Easy | Unknown |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | 🟢 Easy | C++ |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
+| 861 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
 | 909 | [Stone Game](https://leetcode.com/problems/stone-game) | 🟡 Medium | C++ |
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
