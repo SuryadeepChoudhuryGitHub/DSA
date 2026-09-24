@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-23 16:26 UTC
+**Last updated:** 2026-09-24 13:26 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **87** |
-| 🟢 Easy | 43 (49.4%) |
-| 🟡 Medium | 41 (47.1%) |
+| **Total Solved** | **88** |
+| 🟢 Easy | 44 (50.0%) |
+| 🟡 Medium | 41 (46.6%) |
 | 🔴 Hard | 3 (3.4%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 43
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 44
 - 🟡 **Medium**: `█████████░░░░░░░░░░░` 41
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 60 |
-| Python | 21 |
+| Python | 22 |
 | Unknown | 6 |
 
 ## Solved Problems
@@ -112,6 +112,7 @@
 | 3541 | [Report Spam Message](https://leetcode.com/problems/report-spam-message) | 🟡 Medium | Python |
 | 3811 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
+| 3869 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index) | 🟢 Easy | Python |
 | 3914 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency) | 🟢 Easy | C++ |
 | 4080 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | Unknown |
 | 4256 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
