@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-24 13:26 UTC
+**Last updated:** 2026-09-25 16:26 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **88** |
-| 🟢 Easy | 44 (50.0%) |
-| 🟡 Medium | 41 (46.6%) |
+| **Total Solved** | **89** |
+| 🟢 Easy | 45 (50.6%) |
+| 🟡 Medium | 41 (46.1%) |
 | 🔴 Hard | 3 (3.4%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 44
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 45
 - 🟡 **Medium**: `█████████░░░░░░░░░░░` 41
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 60 |
-| Python | 22 |
+| Python | 23 |
 | Unknown | 6 |
 
 ## Solved Problems
@@ -96,6 +96,7 @@
 | 1072 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list) | 🟡 Medium | C++ |
 | 1205 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | 🟢 Easy | Python |
 | 1446 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 🟡 Medium | C++ |
+| 1476 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | 🟢 Easy | Python |
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
 | 1585 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | 🟡 Medium | Python |
