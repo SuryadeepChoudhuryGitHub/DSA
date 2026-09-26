@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-25 16:26 UTC
+**Last updated:** 2026-09-26 17:50 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **89** |
-| 🟢 Easy | 45 (50.6%) |
-| 🟡 Medium | 41 (46.1%) |
-| 🔴 Hard | 3 (3.4%) |
+| **Total Solved** | **90** |
+| 🟢 Easy | 46 (51.1%) |
+| 🟡 Medium | 41 (45.6%) |
+| 🔴 Hard | 3 (3.3%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 45
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 46
 - 🟡 **Medium**: `█████████░░░░░░░░░░░` 41
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 60 |
-| Python | 23 |
+| Python | 24 |
 | Unknown | 6 |
 
 ## Solved Problems
@@ -109,6 +109,7 @@
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
 | 2541 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse) | 🟡 Medium | C++ |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
+| 2825 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | 🟢 Easy | Python |
 | 2903 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | 🟡 Medium | C++ |
 | 3541 | [Report Spam Message](https://leetcode.com/problems/report-spam-message) | 🟡 Medium | Python |
 | 3811 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string) | 🟢 Easy | C++ |
