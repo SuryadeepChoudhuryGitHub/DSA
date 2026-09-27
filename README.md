@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-26 17:50 UTC
+**Last updated:** 2026-09-27 17:48 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **90** |
-| 🟢 Easy | 46 (51.1%) |
-| 🟡 Medium | 41 (45.6%) |
+| **Total Solved** | **91** |
+| 🟢 Easy | 47 (51.6%) |
+| 🟡 Medium | 41 (45.1%) |
 | 🔴 Hard | 3 (3.3%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 46
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 47
 - 🟡 **Medium**: `█████████░░░░░░░░░░░` 41
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 60 |
+| C++ | 61 |
 | Python | 24 |
 | Unknown | 6 |
 
@@ -90,6 +90,7 @@
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 861 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
+| 898 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | 🟢 Easy | C++ |
 | 909 | [Stone Game](https://leetcode.com/problems/stone-game) | 🟡 Medium | C++ |
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
 | 1014 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | 🟡 Medium | C++ |
