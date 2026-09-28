@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-27 17:48 UTC
+**Last updated:** 2026-09-28 17:31 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **91** |
-| 🟢 Easy | 47 (51.6%) |
-| 🟡 Medium | 41 (45.1%) |
+| **Total Solved** | **92** |
+| 🟢 Easy | 48 (52.2%) |
+| 🟡 Medium | 41 (44.6%) |
 | 🔴 Hard | 3 (3.3%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 47
+- 🟢 **Easy**: `██████████░░░░░░░░░░` 48
 - 🟡 **Medium**: `█████████░░░░░░░░░░░` 41
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 61 |
+| C++ | 62 |
 | Python | 24 |
 | Unknown | 6 |
 
@@ -103,6 +103,7 @@
 | 1585 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | 🟡 Medium | Python |
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 1651 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | 🟢 Easy | Python |
+| 1737 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | C++ |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2116 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | 🟢 Easy | Python |
 | 2212 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | 🟡 Medium | C++ |
