@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-28 17:31 UTC
+**Last updated:** 2026-09-29 18:14 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **92** |
-| 🟢 Easy | 48 (52.2%) |
-| 🟡 Medium | 41 (44.6%) |
-| 🔴 Hard | 3 (3.3%) |
+| **Total Solved** | **93** |
+| 🟢 Easy | 49 (52.7%) |
+| 🟡 Medium | 41 (44.1%) |
+| 🔴 Hard | 3 (3.2%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `██████████░░░░░░░░░░` 48
+- 🟢 **Easy**: `███████████░░░░░░░░░` 49
 - 🟡 **Medium**: `█████████░░░░░░░░░░░` 41
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -25,7 +25,7 @@
 |---|---|
 | C++ | 62 |
 | Python | 24 |
-| Unknown | 6 |
+| Unknown | 7 |
 
 ## Solved Problems
 
@@ -85,6 +85,7 @@
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | 🟢 Easy | C++ |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | 🟢 Easy | Python |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | 🟢 Easy | Unknown |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries) | 🟢 Easy | Unknown |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | 🟢 Easy | Unknown |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | 🟢 Easy | C++ |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
