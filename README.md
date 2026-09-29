@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-29 18:14 UTC
+**Last updated:** 2026-09-29 18:17 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **93** |
-| 🟢 Easy | 49 (52.7%) |
-| 🟡 Medium | 41 (44.1%) |
+| **Total Solved** | **94** |
+| 🟢 Easy | 50 (53.2%) |
+| 🟡 Medium | 41 (43.6%) |
 | 🔴 Hard | 3 (3.2%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `███████████░░░░░░░░░` 49
+- 🟢 **Easy**: `███████████░░░░░░░░░` 50
 - 🟡 **Medium**: `█████████░░░░░░░░░░░` 41
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 62 |
-| Python | 24 |
+| Python | 25 |
 | Unknown | 7 |
 
 ## Solved Problems
@@ -88,6 +88,7 @@
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries) | 🟢 Easy | Unknown |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | 🟢 Easy | Unknown |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | 🟢 Easy | C++ |
+| 742 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | 🟢 Easy | Python |
 | 782 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | 🟢 Easy | C++ |
 | 861 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | 🟢 Easy | C++ |
 | 882 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | 🟡 Medium | C++ |
