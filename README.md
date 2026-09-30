@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-29 18:17 UTC
+**Last updated:** 2026-09-30 15:39 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **94** |
-| 🟢 Easy | 50 (53.2%) |
-| 🟡 Medium | 41 (43.6%) |
+| **Total Solved** | **95** |
+| 🟢 Easy | 50 (52.6%) |
+| 🟡 Medium | 42 (44.2%) |
 | 🔴 Hard | 3 (3.2%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `███████████░░░░░░░░░` 50
-- 🟡 **Medium**: `█████████░░░░░░░░░░░` 41
+- 🟡 **Medium**: `█████████░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
 ## Language Breakdown
@@ -26,6 +26,7 @@
 | C++ | 62 |
 | Python | 25 |
 | Unknown | 7 |
+| Java | 1 |
 
 ## Solved Problems
 
@@ -106,6 +107,7 @@
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 1651 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | 🟢 Easy | Python |
 | 1737 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | C++ |
+| 2021 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | Java |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2116 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | 🟢 Easy | Python |
 | 2212 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | 🟡 Medium | C++ |
