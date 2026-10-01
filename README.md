@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-09-30 15:52 UTC
+**Last updated:** 2026-10-01 17:14 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **96** |
-| 🟢 Easy | 51 (53.1%) |
-| 🟡 Medium | 42 (43.8%) |
+| **Total Solved** | **97** |
+| 🟢 Easy | 52 (53.6%) |
+| 🟡 Medium | 42 (43.3%) |
 | 🔴 Hard | 3 (3.1%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `███████████░░░░░░░░░` 51
+- 🟢 **Easy**: `███████████░░░░░░░░░` 52
 - 🟡 **Medium**: `█████████░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 62 |
+| C++ | 63 |
 | Python | 25 |
 | Unknown | 8 |
 | Java | 1 |
@@ -124,6 +124,7 @@
 | 3869 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index) | 🟢 Easy | Python |
 | 3914 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency) | 🟢 Easy | C++ |
 | 4080 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | Unknown |
+| 4107 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 🟢 Easy | C++ |
 | 4256 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
 | 4297 | [Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse) | 🟡 Medium | Python |
 | 4354 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | 🟢 Easy | C++ |
