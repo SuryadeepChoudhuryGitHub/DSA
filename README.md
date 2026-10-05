@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-04 18:23 UTC
+**Last updated:** 2026-10-05 17:15 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **100** |
-| 🟢 Easy | 55 (55.0%) |
-| 🟡 Medium | 42 (42.0%) |
+| **Total Solved** | **101** |
+| 🟢 Easy | 56 (55.4%) |
+| 🟡 Medium | 42 (41.6%) |
 | 🔴 Hard | 3 (3.0%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `███████████░░░░░░░░░` 55
+- 🟢 **Easy**: `███████████░░░░░░░░░` 56
 - 🟡 **Medium**: `████████░░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 64 |
-| Python | 26 |
+| Python | 27 |
 | Unknown | 9 |
 | Java | 1 |
 
@@ -121,6 +121,7 @@
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 2825 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | 🟢 Easy | Python |
 | 2903 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | 🟡 Medium | C++ |
+| 3408 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 🟢 Easy | Python |
 | 3541 | [Report Spam Message](https://leetcode.com/problems/report-spam-message) | 🟡 Medium | Python |
 | 3811 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
