@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-05 17:15 UTC
+**Last updated:** 2026-10-06 17:52 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **101** |
-| 🟢 Easy | 56 (55.4%) |
-| 🟡 Medium | 42 (41.6%) |
-| 🔴 Hard | 3 (3.0%) |
+| **Total Solved** | **102** |
+| 🟢 Easy | 57 (55.9%) |
+| 🟡 Medium | 42 (41.2%) |
+| 🔴 Hard | 3 (2.9%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `███████████░░░░░░░░░` 56
+- 🟢 **Easy**: `███████████░░░░░░░░░` 57
 - 🟡 **Medium**: `████████░░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 64 |
-| Python | 27 |
+| Python | 28 |
 | Unknown | 9 |
 | Java | 1 |
 
@@ -100,6 +100,7 @@
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
 | 1014 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | 🟡 Medium | C++ |
 | 1072 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list) | 🟡 Medium | C++ |
+| 1168 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | 🟢 Easy | Python |
 | 1205 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | 🟢 Easy | Python |
 | 1258 | [Article Views I](https://leetcode.com/problems/article-views-i) | 🟢 Easy | Unknown |
 | 1446 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 🟡 Medium | C++ |
