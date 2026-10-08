@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-07 18:22 UTC
+**Last updated:** 2026-10-08 16:59 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **103** |
-| 🟢 Easy | 58 (56.3%) |
-| 🟡 Medium | 42 (40.8%) |
+| **Total Solved** | **104** |
+| 🟢 Easy | 59 (56.7%) |
+| 🟡 Medium | 42 (40.4%) |
 | 🔴 Hard | 3 (2.9%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `███████████░░░░░░░░░` 58
+- 🟢 **Easy**: `███████████░░░░░░░░░` 59
 - 🟡 **Medium**: `████████░░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 64 |
+| C++ | 65 |
 | Python | 29 |
 | Unknown | 9 |
 | Java | 1 |
@@ -100,6 +100,7 @@
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
 | 1014 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | 🟡 Medium | C++ |
 | 1072 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list) | 🟡 Medium | C++ |
+| 1078 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | C++ |
 | 1168 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | 🟢 Easy | Python |
 | 1205 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | 🟢 Easy | Python |
 | 1258 | [Article Views I](https://leetcode.com/problems/article-views-i) | 🟢 Easy | Unknown |
