@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-08 16:59 UTC
+**Last updated:** 2026-10-09 17:16 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **104** |
-| 🟢 Easy | 59 (56.7%) |
-| 🟡 Medium | 42 (40.4%) |
+| **Total Solved** | **105** |
+| 🟢 Easy | 60 (57.1%) |
+| 🟡 Medium | 42 (40.0%) |
 | 🔴 Hard | 3 (2.9%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `███████████░░░░░░░░░` 59
+- 🟢 **Easy**: `███████████░░░░░░░░░` 60
 - 🟡 **Medium**: `████████░░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -25,7 +25,7 @@
 |---|---|
 | C++ | 65 |
 | Python | 29 |
-| Unknown | 9 |
+| Unknown | 10 |
 | Java | 1 |
 
 ## Solved Problems
@@ -88,6 +88,7 @@
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | 🟢 Easy | Python |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | 🟢 Easy | Unknown |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries) | 🟢 Easy | Unknown |
+| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | 🟢 Easy | Unknown |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | 🟢 Easy | Unknown |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | 🟢 Easy | C++ |
 | 742 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | 🟢 Easy | Python |
