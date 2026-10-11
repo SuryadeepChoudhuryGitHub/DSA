@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-10 16:59 UTC
+**Last updated:** 2026-10-11 18:39 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **106** |
-| 🟢 Easy | 61 (57.5%) |
-| 🟡 Medium | 42 (39.6%) |
+| **Total Solved** | **107** |
+| 🟢 Easy | 62 (57.9%) |
+| 🟡 Medium | 42 (39.3%) |
 | 🔴 Hard | 3 (2.8%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 61
+- 🟢 **Easy**: `████████████░░░░░░░░` 62
 - 🟡 **Medium**: `████████░░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 65 |
-| Python | 30 |
+| Python | 31 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -113,6 +113,7 @@
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
 | 1585 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | 🟡 Medium | Python |
+| 1619 | [Path Crossing](https://leetcode.com/problems/path-crossing) | 🟢 Easy | Python |
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 1651 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | 🟢 Easy | Python |
 | 1737 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | C++ |
