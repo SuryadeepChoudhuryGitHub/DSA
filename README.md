@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-11 18:39 UTC
+**Last updated:** 2026-10-12 17:05 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **107** |
-| 🟢 Easy | 62 (57.9%) |
-| 🟡 Medium | 42 (39.3%) |
+| **Total Solved** | **108** |
+| 🟢 Easy | 63 (58.3%) |
+| 🟡 Medium | 42 (38.9%) |
 | 🔴 Hard | 3 (2.8%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 62
+- 🟢 **Easy**: `████████████░░░░░░░░` 63
 - 🟡 **Medium**: `████████░░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 65 |
-| Python | 31 |
+| Python | 32 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -105,6 +105,7 @@
 | 1168 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | 🟢 Easy | Python |
 | 1205 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | 🟢 Easy | Python |
 | 1258 | [Article Views I](https://leetcode.com/problems/article-views-i) | 🟢 Easy | Unknown |
+| 1260 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | 🟢 Easy | Python |
 | 1293 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | 🟢 Easy | Python |
 | 1446 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 🟡 Medium | C++ |
 | 1476 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | 🟢 Easy | Python |
