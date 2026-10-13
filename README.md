@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-12 17:05 UTC
+**Last updated:** 2026-10-13 16:40 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **108** |
-| 🟢 Easy | 63 (58.3%) |
-| 🟡 Medium | 42 (38.9%) |
+| **Total Solved** | **109** |
+| 🟢 Easy | 64 (58.7%) |
+| 🟡 Medium | 42 (38.5%) |
 | 🔴 Hard | 3 (2.8%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 63
+- 🟢 **Easy**: `████████████░░░░░░░░` 64
 - 🟡 **Medium**: `████████░░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 65 |
+| C++ | 66 |
 | Python | 32 |
 | Unknown | 10 |
 | Java | 1 |
@@ -61,6 +61,7 @@
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | 🟢 Easy | Unknown |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | 🟢 Easy | C++ |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy | C++ |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium | C++ |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | 🟡 Medium | C++ |
