@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-14 17:35 UTC
+**Last updated:** 2026-10-15 18:31 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **110** |
-| 🟢 Easy | 65 (59.1%) |
-| 🟡 Medium | 42 (38.2%) |
+| **Total Solved** | **111** |
+| 🟢 Easy | 66 (59.5%) |
+| 🟡 Medium | 42 (37.8%) |
 | 🔴 Hard | 3 (2.7%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 65
+- 🟢 **Easy**: `████████████░░░░░░░░` 66
 - 🟡 **Medium**: `████████░░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 67 |
-| Python | 32 |
+| Python | 33 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -131,6 +131,7 @@
 | 2903 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | 🟡 Medium | C++ |
 | 3408 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 🟢 Easy | Python |
 | 3541 | [Report Spam Message](https://leetcode.com/problems/report-spam-message) | 🟡 Medium | Python |
+| 3567 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary) | 🟢 Easy | Python |
 | 3723 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers) | 🟢 Easy | C++ |
 | 3811 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string) | 🟢 Easy | C++ |
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
