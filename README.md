@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-16 20:09 UTC
+**Last updated:** 2026-10-17 17:33 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **112** |
-| 🟢 Easy | 67 (59.8%) |
-| 🟡 Medium | 42 (37.5%) |
+| **Total Solved** | **113** |
+| 🟢 Easy | 68 (60.2%) |
+| 🟡 Medium | 42 (37.2%) |
 | 🔴 Hard | 3 (2.7%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 67
-- 🟡 **Medium**: `████████░░░░░░░░░░░░` 42
+- 🟢 **Easy**: `████████████░░░░░░░░` 68
+- 🟡 **Medium**: `███████░░░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
 ## Language Breakdown
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 67 |
-| Python | 34 |
+| Python | 35 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -99,6 +99,7 @@
 | 898 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | 🟢 Easy | C++ |
 | 908 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | C++ |
 | 909 | [Stone Game](https://leetcode.com/problems/stone-game) | 🟡 Medium | C++ |
+| 941 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | 🟢 Easy | Python |
 | 1013 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | C++ |
 | 1014 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | 🟡 Medium | C++ |
 | 1072 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list) | 🟡 Medium | C++ |
