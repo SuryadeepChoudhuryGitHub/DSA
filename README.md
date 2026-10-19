@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-18 16:17 UTC
+**Last updated:** 2026-10-19 17:26 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **114** |
-| 🟢 Easy | 69 (60.5%) |
-| 🟡 Medium | 42 (36.8%) |
+| **Total Solved** | **115** |
+| 🟢 Easy | 70 (60.9%) |
+| 🟡 Medium | 42 (36.5%) |
 | 🔴 Hard | 3 (2.6%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 69
+- 🟢 **Easy**: `████████████░░░░░░░░` 70
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 67 |
-| Python | 36 |
+| Python | 37 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -117,6 +117,7 @@
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
 | 1585 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | 🟡 Medium | Python |
+| 1603 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | 🟢 Easy | Python |
 | 1619 | [Path Crossing](https://leetcode.com/problems/path-crossing) | 🟢 Easy | Python |
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 1651 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | 🟢 Easy | Python |
