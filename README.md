@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-19 17:26 UTC
+**Last updated:** 2026-10-20 16:51 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **115** |
-| 🟢 Easy | 70 (60.9%) |
-| 🟡 Medium | 42 (36.5%) |
+| **Total Solved** | **116** |
+| 🟢 Easy | 71 (61.2%) |
+| 🟡 Medium | 42 (36.2%) |
 | 🔴 Hard | 3 (2.6%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 70
+- 🟢 **Easy**: `████████████░░░░░░░░` 71
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 42
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 67 |
-| Python | 37 |
+| Python | 38 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -119,6 +119,7 @@
 | 1585 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | 🟡 Medium | Python |
 | 1603 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | 🟢 Easy | Python |
 | 1619 | [Path Crossing](https://leetcode.com/problems/path-crossing) | 🟢 Easy | Python |
+| 1635 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | 🟢 Easy | Python |
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 1651 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | 🟢 Easy | Python |
 | 1737 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | C++ |
