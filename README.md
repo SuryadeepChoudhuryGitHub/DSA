@@ -2,28 +2,28 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-20 16:51 UTC
+**Last updated:** 2026-10-21 15:52 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **116** |
-| 🟢 Easy | 71 (61.2%) |
-| 🟡 Medium | 42 (36.2%) |
+| **Total Solved** | **117** |
+| 🟢 Easy | 71 (60.7%) |
+| 🟡 Medium | 43 (36.8%) |
 | 🔴 Hard | 3 (2.6%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `████████████░░░░░░░░` 71
-- 🟡 **Medium**: `███████░░░░░░░░░░░░░` 42
+- 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
-| C++ | 67 |
+| C++ | 68 |
 | Python | 38 |
 | Unknown | 10 |
 | Java | 1 |
@@ -51,6 +51,7 @@
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | C++ |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | C++ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | C++ |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | C++ |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Python |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | 🟡 Medium | C++ |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | C++ |
