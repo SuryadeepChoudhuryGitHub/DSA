@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-21 15:52 UTC
+**Last updated:** 2026-10-22 15:34 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **117** |
-| 🟢 Easy | 71 (60.7%) |
-| 🟡 Medium | 43 (36.8%) |
-| 🔴 Hard | 3 (2.6%) |
+| **Total Solved** | **118** |
+| 🟢 Easy | 72 (61.0%) |
+| 🟡 Medium | 43 (36.4%) |
+| 🔴 Hard | 3 (2.5%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 71
+- 🟢 **Easy**: `████████████░░░░░░░░` 72
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 68 |
-| Python | 38 |
+| Python | 39 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -124,6 +124,7 @@
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 1651 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | 🟢 Easy | Python |
 | 1737 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | C++ |
+| 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Python |
 | 2021 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | Java |
 | 2099 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | 🟢 Easy | Python |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
