@@ -2,29 +2,29 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-23 18:18 UTC
+**Last updated:** 2026-10-24 16:53 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **119** |
-| 🟢 Easy | 73 (61.3%) |
-| 🟡 Medium | 43 (36.1%) |
+| **Total Solved** | **120** |
+| 🟢 Easy | 74 (61.7%) |
+| 🟡 Medium | 43 (35.8%) |
 | 🔴 Hard | 3 (2.5%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 73
+- 🟢 **Easy**: `████████████░░░░░░░░` 74
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
-- 🔴 **Hard**: `█░░░░░░░░░░░░░░░░░░░` 3
+- 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
 ## Language Breakdown
 
 | Language | Solved |
 |---|---|
 | C++ | 68 |
-| Python | 40 |
+| Python | 41 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -117,6 +117,7 @@
 | 1537 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | 🟢 Easy | Python |
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
 | 1574 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | 🟢 Easy | Python |
+| 1580 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | 🟢 Easy | Python |
 | 1585 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | 🟡 Medium | Python |
 | 1603 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | 🟢 Easy | Python |
 | 1619 | [Path Crossing](https://leetcode.com/problems/path-crossing) | 🟢 Easy | Python |
