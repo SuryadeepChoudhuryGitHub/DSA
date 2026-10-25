@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-24 16:53 UTC
+**Last updated:** 2026-10-25 17:51 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **120** |
-| 🟢 Easy | 74 (61.7%) |
-| 🟡 Medium | 43 (35.8%) |
+| **Total Solved** | **121** |
+| 🟢 Easy | 75 (62.0%) |
+| 🟡 Medium | 43 (35.5%) |
 | 🔴 Hard | 3 (2.5%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 74
+- 🟢 **Easy**: `████████████░░░░░░░░` 75
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 68 |
-| Python | 41 |
+| Python | 42 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -105,6 +105,7 @@
 | 1014 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | 🟡 Medium | C++ |
 | 1072 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list) | 🟡 Medium | C++ |
 | 1078 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | C++ |
+| 1137 | [Height Checker](https://leetcode.com/problems/height-checker) | 🟢 Easy | Python |
 | 1168 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | 🟢 Easy | Python |
 | 1205 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | 🟢 Easy | Python |
 | 1258 | [Article Views I](https://leetcode.com/problems/article-views-i) | 🟢 Easy | Unknown |
