@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-25 17:51 UTC
+**Last updated:** 2026-10-26 16:47 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **121** |
-| 🟢 Easy | 75 (62.0%) |
-| 🟡 Medium | 43 (35.5%) |
+| **Total Solved** | **122** |
+| 🟢 Easy | 76 (62.3%) |
+| 🟡 Medium | 43 (35.2%) |
 | 🔴 Hard | 3 (2.5%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 75
+- 🟢 **Easy**: `████████████░░░░░░░░` 76
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 68 |
-| Python | 42 |
+| Python | 43 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -112,6 +112,7 @@
 | 1260 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | 🟢 Easy | Python |
 | 1293 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | 🟢 Easy | Python |
 | 1319 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | 🟢 Easy | Python |
+| 1421 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | 🟢 Easy | Python |
 | 1446 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 🟡 Medium | C++ |
 | 1476 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | 🟢 Easy | Python |
 | 1496 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | 🟢 Easy | Python |
