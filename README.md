@@ -1,6 +1,6 @@
 # 📊 DSA Progress Tracker
 
-> Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
+> Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh. 
 
 **Last updated:** 2026-10-26 16:47 UTC
 
