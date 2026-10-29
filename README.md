@@ -1,21 +1,21 @@
 # 📊 DSA Progress Tracker
 
-> Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh. 
+> Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-26 16:47 UTC
+**Last updated:** 2026-10-29 15:47 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **122** |
-| 🟢 Easy | 76 (62.3%) |
-| 🟡 Medium | 43 (35.2%) |
-| 🔴 Hard | 3 (2.5%) |
+| **Total Solved** | **124** |
+| 🟢 Easy | 78 (62.9%) |
+| 🟡 Medium | 43 (34.7%) |
+| 🔴 Hard | 3 (2.4%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `████████████░░░░░░░░` 76
+- 🟢 **Easy**: `█████████████░░░░░░░` 78
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 68 |
-| Python | 43 |
+| Python | 45 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -71,6 +71,7 @@
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | C++ |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | 🟡 Medium | C++ |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | 🟡 Medium | C++ |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits) | 🟢 Easy | Python |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | 🟢 Easy | C++ |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | C++ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium | C++ |
@@ -126,6 +127,7 @@
 | 1635 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | 🟢 Easy | Python |
 | 1636 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | 🟡 Medium | C++ |
 | 1651 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | 🟢 Easy | Python |
+| 1677 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | 🟢 Easy | Python |
 | 1737 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | C++ |
 | 1848 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | 🟢 Easy | Python |
 | 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Python |
