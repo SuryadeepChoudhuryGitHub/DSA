@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-29 15:47 UTC
+**Last updated:** 2026-10-30 16:43 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **124** |
-| 🟢 Easy | 78 (62.9%) |
-| 🟡 Medium | 43 (34.7%) |
+| **Total Solved** | **125** |
+| 🟢 Easy | 79 (63.2%) |
+| 🟡 Medium | 43 (34.4%) |
 | 🔴 Hard | 3 (2.4%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 78
+- 🟢 **Easy**: `█████████████░░░░░░░` 79
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 68 |
-| Python | 45 |
+| Python | 46 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -116,6 +116,7 @@
 | 1421 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | 🟢 Easy | Python |
 | 1446 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 🟡 Medium | C++ |
 | 1476 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | 🟢 Easy | Python |
+| 1482 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | Python |
 | 1496 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | 🟢 Easy | Python |
 | 1537 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | 🟢 Easy | Python |
 | 1560 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | 🟢 Easy | C++ |
