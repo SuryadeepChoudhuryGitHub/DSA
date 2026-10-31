@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-30 16:43 UTC
+**Last updated:** 2026-10-31 15:59 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **125** |
-| 🟢 Easy | 79 (63.2%) |
-| 🟡 Medium | 43 (34.4%) |
+| **Total Solved** | **126** |
+| 🟢 Easy | 80 (63.5%) |
+| 🟡 Medium | 43 (34.1%) |
 | 🔴 Hard | 3 (2.4%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 79
+- 🟢 **Easy**: `█████████████░░░░░░░` 80
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 68 |
+| C++ | 69 |
 | Python | 46 |
 | Unknown | 10 |
 | Java | 1 |
@@ -133,6 +133,7 @@
 | 1848 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | 🟢 Easy | Python |
 | 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Python |
 | 2021 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | Java |
+| 2083 | [Three Divisors](https://leetcode.com/problems/three-divisors) | 🟢 Easy | C++ |
 | 2099 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | 🟢 Easy | Python |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2116 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | 🟢 Easy | Python |
