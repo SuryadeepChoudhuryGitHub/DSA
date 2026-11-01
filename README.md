@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-10-31 15:59 UTC
+**Last updated:** 2026-11-01 15:35 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **126** |
-| 🟢 Easy | 80 (63.5%) |
-| 🟡 Medium | 43 (34.1%) |
+| **Total Solved** | **127** |
+| 🟢 Easy | 81 (63.8%) |
+| 🟡 Medium | 43 (33.9%) |
 | 🔴 Hard | 3 (2.4%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 80
+- 🟢 **Easy**: `█████████████░░░░░░░` 81
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 69 |
-| Python | 46 |
+| Python | 47 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -142,6 +142,7 @@
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
 | 2541 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse) | 🟡 Medium | C++ |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
+| 2608 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | 🟢 Easy | Python |
 | 2825 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | 🟢 Easy | Python |
 | 2903 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | 🟡 Medium | C++ |
 | 3408 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 🟢 Easy | Python |
