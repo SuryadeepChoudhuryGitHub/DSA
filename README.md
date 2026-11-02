@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-01 15:35 UTC
+**Last updated:** 2026-11-02 14:06 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **127** |
-| 🟢 Easy | 81 (63.8%) |
-| 🟡 Medium | 43 (33.9%) |
-| 🔴 Hard | 3 (2.4%) |
+| **Total Solved** | **128** |
+| 🟢 Easy | 82 (64.1%) |
+| 🟡 Medium | 43 (33.6%) |
+| 🔴 Hard | 3 (2.3%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 81
+- 🟢 **Easy**: `█████████████░░░░░░░` 82
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 69 |
-| Python | 47 |
+| Python | 48 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -141,6 +141,7 @@
 | 2271 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | 🟡 Medium | C++ |
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
 | 2541 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse) | 🟡 Medium | C++ |
+| 2575 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle) | 🟢 Easy | Python |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 2608 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | 🟢 Easy | Python |
 | 2825 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | 🟢 Easy | Python |
