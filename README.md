@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-02 14:06 UTC
+**Last updated:** 2026-11-06 17:45 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **128** |
-| 🟢 Easy | 82 (64.1%) |
-| 🟡 Medium | 43 (33.6%) |
+| **Total Solved** | **129** |
+| 🟢 Easy | 83 (64.3%) |
+| 🟡 Medium | 43 (33.3%) |
 | 🔴 Hard | 3 (2.3%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 82
+- 🟢 **Easy**: `█████████████░░░░░░░` 83
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 69 |
-| Python | 48 |
+| Python | 49 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -144,6 +144,7 @@
 | 2575 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle) | 🟢 Easy | Python |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 2608 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | 🟢 Easy | Python |
+| 2654 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | 🟢 Easy | Python |
 | 2825 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | 🟢 Easy | Python |
 | 2903 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | 🟡 Medium | C++ |
 | 3408 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 🟢 Easy | Python |
