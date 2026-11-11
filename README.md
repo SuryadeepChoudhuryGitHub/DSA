@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-07 16:26 UTC
+**Last updated:** 2026-11-11 16:13 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **130** |
-| 🟢 Easy | 84 (64.6%) |
-| 🟡 Medium | 43 (33.1%) |
+| **Total Solved** | **131** |
+| 🟢 Easy | 85 (64.9%) |
+| 🟡 Medium | 43 (32.8%) |
 | 🔴 Hard | 3 (2.3%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 84
+- 🟢 **Easy**: `█████████████░░░░░░░` 85
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 69 |
-| Python | 50 |
+| Python | 51 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -131,6 +131,7 @@
 | 1651 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | 🟢 Easy | Python |
 | 1677 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | 🟢 Easy | Python |
 | 1737 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | C++ |
+| 1781 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | 🟢 Easy | Python |
 | 1848 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | 🟢 Easy | Python |
 | 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Python |
 | 2021 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | Java |
