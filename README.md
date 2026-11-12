@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-11 16:13 UTC
+**Last updated:** 2026-11-12 16:44 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **131** |
-| 🟢 Easy | 85 (64.9%) |
-| 🟡 Medium | 43 (32.8%) |
+| **Total Solved** | **132** |
+| 🟢 Easy | 86 (65.2%) |
+| 🟡 Medium | 43 (32.6%) |
 | 🔴 Hard | 3 (2.3%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 85
+- 🟢 **Easy**: `█████████████░░░░░░░` 86
 - 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 69 |
-| Python | 51 |
+| Python | 52 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -139,6 +139,7 @@
 | 2099 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | 🟢 Easy | Python |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
 | 2116 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | 🟢 Easy | Python |
+| 2199 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors) | 🟢 Easy | Python |
 | 2212 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | 🟡 Medium | C++ |
 | 2271 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | 🟡 Medium | C++ |
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
