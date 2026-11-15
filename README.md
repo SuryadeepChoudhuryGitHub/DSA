@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-12 16:44 UTC
+**Last updated:** 2026-11-15 17:29 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **132** |
-| 🟢 Easy | 86 (65.2%) |
-| 🟡 Medium | 43 (32.6%) |
+| **Total Solved** | **133** |
+| 🟢 Easy | 87 (65.4%) |
+| 🟡 Medium | 43 (32.3%) |
 | 🔴 Hard | 3 (2.3%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 86
-- 🟡 **Medium**: `███████░░░░░░░░░░░░░` 43
+- 🟢 **Easy**: `█████████████░░░░░░░` 87
+- 🟡 **Medium**: `██████░░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
 ## Language Breakdown
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 69 |
-| Python | 52 |
+| Python | 53 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -158,6 +158,7 @@
 | 3859 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | 🟢 Easy | Python |
 | 3869 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index) | 🟢 Easy | Python |
 | 3914 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency) | 🟢 Easy | C++ |
+| 3918 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | 🟢 Easy | Python |
 | 4080 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | Unknown |
 | 4107 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 🟢 Easy | C++ |
 | 4256 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | C++ |
