@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-15 17:29 UTC
+**Last updated:** 2026-11-16 16:00 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **133** |
-| 🟢 Easy | 87 (65.4%) |
-| 🟡 Medium | 43 (32.3%) |
-| 🔴 Hard | 3 (2.3%) |
+| **Total Solved** | **134** |
+| 🟢 Easy | 88 (65.7%) |
+| 🟡 Medium | 43 (32.1%) |
+| 🔴 Hard | 3 (2.2%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 87
+- 🟢 **Easy**: `█████████████░░░░░░░` 88
 - 🟡 **Medium**: `██████░░░░░░░░░░░░░░` 43
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 69 |
+| C++ | 70 |
 | Python | 53 |
 | Unknown | 10 |
 | Java | 1 |
@@ -144,6 +144,7 @@
 | 2271 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | 🟡 Medium | C++ |
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
 | 2541 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse) | 🟡 Medium | C++ |
+| 2551 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array) | 🟢 Easy | C++ |
 | 2575 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle) | 🟢 Easy | Python |
 | 2589 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | 🟢 Easy | C++ |
 | 2608 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | 🟢 Easy | Python |
