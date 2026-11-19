@@ -2,21 +2,21 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-18 18:32 UTC
+**Last updated:** 2026-11-19 18:16 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **136** |
-| 🟢 Easy | 90 (66.2%) |
-| 🟡 Medium | 43 (31.6%) |
+| **Total Solved** | **137** |
+| 🟢 Easy | 90 (65.7%) |
+| 🟡 Medium | 44 (32.1%) |
 | 🔴 Hard | 3 (2.2%) |
 
 ## Difficulty Breakdown
 
 - 🟢 **Easy**: `█████████████░░░░░░░` 90
-- 🟡 **Medium**: `██████░░░░░░░░░░░░░░` 43
+- 🟡 **Medium**: `██████░░░░░░░░░░░░░░` 44
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
 ## Language Breakdown
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 71 |
-| Python | 54 |
+| Python | 55 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -59,6 +59,7 @@
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | C++ |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | 🔴 Hard | C++ |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | 🟡 Medium | C++ |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | 🟡 Medium | Python |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | 🟢 Easy | Unknown |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | 🟢 Easy | Unknown |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 Medium | C++ |
