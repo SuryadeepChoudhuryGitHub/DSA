@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-19 18:16 UTC
+**Last updated:** 2026-11-20 17:27 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **137** |
-| 🟢 Easy | 90 (65.7%) |
-| 🟡 Medium | 44 (32.1%) |
+| **Total Solved** | **138** |
+| 🟢 Easy | 91 (65.9%) |
+| 🟡 Medium | 44 (31.9%) |
 | 🔴 Hard | 3 (2.2%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 90
+- 🟢 **Easy**: `█████████████░░░░░░░` 91
 - 🟡 **Medium**: `██████░░░░░░░░░░░░░░` 44
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -23,7 +23,7 @@
 
 | Language | Solved |
 |---|---|
-| C++ | 71 |
+| C++ | 72 |
 | Python | 55 |
 | Unknown | 10 |
 | Java | 1 |
@@ -133,6 +133,7 @@
 | 1677 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | 🟢 Easy | Python |
 | 1737 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | C++ |
 | 1781 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | 🟢 Easy | Python |
+| 1806 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament) | 🟢 Easy | C++ |
 | 1823 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | 🟢 Easy | Python |
 | 1848 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | 🟢 Easy | Python |
 | 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Python |
