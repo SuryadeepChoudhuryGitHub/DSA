@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-20 17:27 UTC
+**Last updated:** 2026-11-22 18:27 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **138** |
-| 🟢 Easy | 91 (65.9%) |
-| 🟡 Medium | 44 (31.9%) |
+| **Total Solved** | **139** |
+| 🟢 Easy | 92 (66.2%) |
+| 🟡 Medium | 44 (31.7%) |
 | 🔴 Hard | 3 (2.2%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 91
+- 🟢 **Easy**: `█████████████░░░░░░░` 92
 - 🟡 **Medium**: `██████░░░░░░░░░░░░░░` 44
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 72 |
-| Python | 55 |
+| Python | 56 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -87,6 +87,7 @@
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | 🟢 Easy | C++ |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | 🟢 Easy | Python |
 | 528 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | 🟡 Medium | C++ |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | 🟢 Easy | Python |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | 🟡 Medium | C++ |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | 🟢 Easy | C++ |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | 🟢 Easy | Python |
