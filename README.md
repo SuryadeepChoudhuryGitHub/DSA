@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-22 18:27 UTC
+**Last updated:** 2026-11-23 16:48 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **139** |
-| 🟢 Easy | 92 (66.2%) |
-| 🟡 Medium | 44 (31.7%) |
-| 🔴 Hard | 3 (2.2%) |
+| **Total Solved** | **140** |
+| 🟢 Easy | 93 (66.4%) |
+| 🟡 Medium | 44 (31.4%) |
+| 🔴 Hard | 3 (2.1%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 92
+- 🟢 **Easy**: `█████████████░░░░░░░` 93
 - 🟡 **Medium**: `██████░░░░░░░░░░░░░░` 44
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 72 |
-| Python | 56 |
+| Python | 57 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -156,6 +156,7 @@
 | 2654 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | 🟢 Easy | Python |
 | 2825 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | 🟢 Easy | Python |
 | 2903 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | 🟡 Medium | C++ |
+| 3371 | [Harshad Number](https://leetcode.com/problems/harshad-number) | 🟢 Easy | Python |
 | 3408 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 🟢 Easy | Python |
 | 3541 | [Report Spam Message](https://leetcode.com/problems/report-spam-message) | 🟡 Medium | Python |
 | 3567 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary) | 🟢 Easy | Python |
