@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-23 16:48 UTC
+**Last updated:** 2026-11-24 17:45 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **140** |
-| 🟢 Easy | 93 (66.4%) |
-| 🟡 Medium | 44 (31.4%) |
+| **Total Solved** | **141** |
+| 🟢 Easy | 94 (66.7%) |
+| 🟡 Medium | 44 (31.2%) |
 | 🔴 Hard | 3 (2.1%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 93
+- 🟢 **Easy**: `█████████████░░░░░░░` 94
 - 🟡 **Medium**: `██████░░░░░░░░░░░░░░` 44
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 72 |
-| Python | 57 |
+| Python | 58 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -146,6 +146,7 @@
 | 2199 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors) | 🟢 Easy | Python |
 | 2212 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | 🟡 Medium | C++ |
 | 2271 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | 🟡 Medium | C++ |
+| 2274 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | 🟢 Easy | Python |
 | 2491 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | 🟢 Easy | C++ |
 | 2541 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse) | 🟡 Medium | C++ |
 | 2542 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | 🟢 Easy | C++ |
