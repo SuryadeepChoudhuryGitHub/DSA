@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-24 17:45 UTC
+**Last updated:** 2026-11-25 17:22 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **141** |
-| 🟢 Easy | 94 (66.7%) |
-| 🟡 Medium | 44 (31.2%) |
+| **Total Solved** | **142** |
+| 🟢 Easy | 95 (66.9%) |
+| 🟡 Medium | 44 (31.0%) |
 | 🔴 Hard | 3 (2.1%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 94
+- 🟢 **Easy**: `█████████████░░░░░░░` 95
 - 🟡 **Medium**: `██████░░░░░░░░░░░░░░` 44
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 72 |
-| Python | 58 |
+| Python | 59 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -77,6 +77,7 @@
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | C++ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium | C++ |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | 🟢 Easy | Python |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | 🟢 Easy | Python |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | 🟡 Medium | Python |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | 🟢 Easy | C++ |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | 🟢 Easy | Python |
