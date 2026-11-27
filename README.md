@@ -2,20 +2,20 @@
 
 > Auto-generated from this repo's LeetSync submissions. Do not edit by hand — run `scripts/generate_stats.py` (or push a new solution) to refresh.
 
-**Last updated:** 2026-11-26 17:47 UTC
+**Last updated:** 2026-11-27 17:53 UTC
 
 ## Overview
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **143** |
-| 🟢 Easy | 96 (67.1%) |
-| 🟡 Medium | 44 (30.8%) |
+| **Total Solved** | **144** |
+| 🟢 Easy | 97 (67.4%) |
+| 🟡 Medium | 44 (30.6%) |
 | 🔴 Hard | 3 (2.1%) |
 
 ## Difficulty Breakdown
 
-- 🟢 **Easy**: `█████████████░░░░░░░` 96
+- 🟢 **Easy**: `█████████████░░░░░░░` 97
 - 🟡 **Medium**: `██████░░░░░░░░░░░░░░` 44
 - 🔴 **Hard**: `░░░░░░░░░░░░░░░░░░░░` 3
 
@@ -24,7 +24,7 @@
 | Language | Solved |
 |---|---|
 | C++ | 72 |
-| Python | 60 |
+| Python | 61 |
 | Unknown | 10 |
 | Java | 1 |
 
@@ -141,6 +141,7 @@
 | 1878 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Python |
 | 1916 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph) | 🟢 Easy | Python |
 | 2021 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | 🟡 Medium | Java |
+| 2058 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | 🟢 Easy | Python |
 | 2083 | [Three Divisors](https://leetcode.com/problems/three-divisors) | 🟢 Easy | C++ |
 | 2099 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | 🟢 Easy | Python |
 | 2106 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | 🟢 Easy | Python |
